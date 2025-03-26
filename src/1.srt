@@ -1,0 +1,10468 @@
+1
+00:00:00,000 --> 00:00:14,340
+hi so what we're going to actually cover first is really really important we're
+
+2
+00:00:14,340 --> 00:00:19,200
+going to cover the differences between retail traders and professional traders
+
+3
+00:00:19,200 --> 00:00:25,600
+but we're going to start at professional traders 101 which is essentially
+
+4
+00:00:25,600 --> 00:00:32,140
+defining what a professional trader actually is and what a successful
+
+5
+00:00:32,140 --> 00:00:38,140
+professional trader actually does now this is really important and you should
+
+6
+00:00:38,140 --> 00:00:45,820
+not underestimate it simply because from a professional traders perspective I can
+
+7
+00:00:45,820 --> 00:00:51,460
+tell you uncategorically that retail traders totally misinterpret and
+
+8
+00:00:51,460 --> 00:00:58,840
+misunderstand what professional traders do now this leads to a big problem
+
+9
+00:00:58,840 --> 00:01:07,540
+because essentially retail traders their objectives are really to emulate what
+
+10
+00:01:07,540 --> 00:01:14,500
+successful traders do but do it with their own money now it's a problem because
+
+11
+00:01:14,500 --> 00:01:20,900
+it leads to retail traders to make many many many mistakes and go down the wrong
+
+12
+00:01:20,900 --> 00:01:28,040
+path of trading now once you understand what a professional trader actually is
+
+13
+00:01:28,040 --> 00:01:36,800
+and what a successful professional trader does then you can begin to emulate with
+
+14
+00:01:36,800 --> 00:01:42,560
+your own money what a professional trader does so we're going to go over to the
+
+15
+00:01:42,560 --> 00:01:50,780
+stage now and I want you to really focus on your objectives here your objective
+
+16
+00:01:50,780 --> 00:01:57,920
+as a retail trader is to make money using your own money and
+
+17
+00:01:57,920 --> 00:02:04,700
+in the process to emulate successful professional traders therefore we're going to
+
+18
+00:02:04,700 --> 00:02:10,920
+start by defining exactly what a professional trader is then we'll move on in the next
+
+19
+00:02:10,920 --> 00:02:18,060
+section to what successful professional traders do let's go over to the stage and I'll see you on the other side
+
+20
+00:02:18,060 --> 00:02:37,200
+so the first part we're going to do is actually define what professional traders do
+
+21
+00:02:37,200 --> 00:02:49,340
+question one what does a guy at investment bank do a professional trader what does a guy at a hedge fund do they're
+
+22
+00:02:49,340 --> 00:02:53,340
+they're quite different functions quite different roles what does it mean for the
+
+23
+00:02:53,340 --> 00:03:00,480
+retail trader who's trying to emulate them and the differences between professional traders and retail traders
+
+24
+00:03:00,480 --> 00:03:06,480
+so professional traders at investment banks
+
+25
+00:03:06,480 --> 00:03:20,340
+90% of a traders time at an investment bank is actually spent being a market maker and only 10% of their time is actually spent
+
+26
+00:03:20,340 --> 00:03:27,480
+trading the bank's money I'm using that money in an attempt to make a profit
+
+27
+00:03:27,480 --> 00:03:35,480
+so when you look on CNBC Bloomberg on the television and you see the trip that you see the trading floors with all the guys
+
+28
+00:03:35,480 --> 00:03:51,620
+walking around and lots of screens at their desks at their desks what are they actually doing well 90% of the time they're just making prices in the market to clients
+
+29
+00:03:51,620 --> 00:03:58,040
+so is that what we do as retail traders
+
+30
+00:03:58,040 --> 00:04:01,600
+who says yes
+
+31
+00:04:01,600 --> 00:04:06,580
+it's clearly not we don't have any clients we don't care
+
+32
+00:04:06,580 --> 00:04:09,800
+the objective here like this gentleman
+
+33
+00:04:09,800 --> 00:04:12,480
+already outlined
+
+34
+00:04:12,480 --> 00:04:17,180
+is to just make money using our own money to make money
+
+35
+00:04:17,180 --> 00:04:21,240
+got no interest in market making
+
+36
+00:04:21,240 --> 00:04:28,000
+but let's have a look at the business how it actually works
+
+37
+00:04:28,000 --> 00:04:32,380
+the market making business is literally the bread and butter of the bank
+
+38
+00:04:32,380 --> 00:04:39,680
+and it's split into two categories really
+
+39
+00:04:39,680 --> 00:04:44,600
+it's the it's an agency business and a risk business
+
+40
+00:04:44,600 --> 00:04:49,700
+okay what do we mean by an agency business you're not on risk to the client
+
+41
+00:04:49,700 --> 00:04:53,300
+so the agency business literally
+
+42
+00:04:53,300 --> 00:04:58,400
+a guy calls in from a pension fund or a hedge fund and they want to buy an asset
+
+43
+00:04:58,400 --> 00:05:03,100
+they give the bank the order to buy the asset on their behalf
+
+44
+00:05:03,100 --> 00:05:07,160
+and it's just executed in the market
+
+45
+00:05:07,160 --> 00:05:09,540
+and a commission is charged
+
+46
+00:05:09,540 --> 00:05:13,340
+and commissions are charged in basis points
+
+47
+00:05:13,340 --> 00:05:17,040
+and 100 basis points is 1%
+
+48
+00:05:17,040 --> 00:05:20,400
+so what's a typical commission these days
+
+49
+00:05:20,400 --> 00:05:24,300
+anybody what do you think
+
+50
+00:05:24,300 --> 00:05:29,000
+on an agency trade
+
+51
+00:05:29,000 --> 00:05:30,680
+who said five basis points
+
+52
+00:05:30,680 --> 00:05:32,940
+yeah four or five basis points
+
+53
+00:05:32,940 --> 00:05:36,380
+over around a decade ago
+
+54
+00:05:36,380 --> 00:05:39,040
+the industry standard was about 20-25
+
+55
+00:05:39,040 --> 00:05:40,540
+for agency business
+
+56
+00:05:40,540 --> 00:05:46,040
+so all things being constant in terms of volume in the markets
+
+57
+00:05:46,040 --> 00:05:49,800
+the agency business is down 80% in the last decade
+
+58
+00:05:49,800 --> 00:05:52,640
+that's one of the reasons why banks struggle
+
+59
+00:05:52,640 --> 00:05:59,280
+and this is totally risk-free stuff to the bank
+
+60
+00:05:59,280 --> 00:06:00,880
+the phone just rings
+
+61
+00:06:00,880 --> 00:06:02,700
+a salesperson takes the order
+
+62
+00:06:02,700 --> 00:06:04,200
+puts it in the system
+
+63
+00:06:04,200 --> 00:06:07,740
+and it goes through
+
+64
+00:06:07,740 --> 00:06:10,340
+typically into an algorithm
+
+65
+00:06:10,340 --> 00:06:13,440
+and the algorithm executes it electronically
+
+66
+00:06:13,440 --> 00:06:16,540
+so there's very little human intervention
+
+67
+00:06:16,540 --> 00:06:21,620
+and that's pretty much 80% of all market-making business
+
+68
+00:06:21,620 --> 00:06:23,460
+so what does that tell you
+
+69
+00:06:23,460 --> 00:06:25,660
+in terms of the time split of a trader
+
+70
+00:06:25,660 --> 00:06:27,920
+at an investment bank
+
+71
+00:06:27,920 --> 00:06:37,000
+what does it tell you
+
+72
+00:06:37,000 --> 00:06:39,060
+what was the number in terms of time
+
+73
+00:06:39,060 --> 00:06:42,460
+they were spending 90% market-making year
+
+74
+00:06:42,460 --> 00:06:46,100
+and 80% of its agency
+
+75
+00:06:46,100 --> 00:06:48,860
+so the vast majority of the time
+
+76
+00:06:48,860 --> 00:06:51,140
+they're actually just sitting at computers
+
+77
+00:06:51,140 --> 00:06:53,780
+watching orders being executed in the market
+
+78
+00:06:53,780 --> 00:06:56,600
+and just supervising them
+
+79
+00:06:56,600 --> 00:06:59,540
+that's the vast majority of what
+
+80
+00:06:59,540 --> 00:07:01,320
+professional traders at investment banks do
+
+81
+00:07:01,320 --> 00:07:03,480
+it's pretty boring
+
+82
+00:07:03,480 --> 00:07:07,400
+but the perception is that
+
+83
+00:07:07,400 --> 00:07:08,320
+it's totally the opposite
+
+84
+00:07:08,320 --> 00:07:11,940
+people think that trading floors
+
+85
+00:07:11,940 --> 00:07:15,020
+are these huge hives of activity
+
+86
+00:07:15,020 --> 00:07:15,900
+with lots of noise
+
+87
+00:07:15,900 --> 00:07:17,100
+and everyone shouting at each other
+
+88
+00:07:17,100 --> 00:07:19,780
+it's just completely the opposite now
+
+89
+00:07:19,780 --> 00:07:23,020
+that you can walk onto the Goldman Sachs
+
+90
+00:07:23,020 --> 00:07:23,600
+Morgan Stanley
+
+91
+00:07:23,600 --> 00:07:25,120
+Bank of America Merrill Lynch trading floor
+
+92
+00:07:25,120 --> 00:07:27,180
+and it's quieter than this room
+
+93
+00:07:27,180 --> 00:07:33,180
+that's what they're doing most of the time
+
+94
+00:07:33,180 --> 00:07:37,160
+so two things
+
+95
+00:07:37,160 --> 00:07:38,740
+is firstly get it out your head
+
+96
+00:07:38,740 --> 00:07:40,260
+that a trader's job is exciting
+
+97
+00:07:40,260 --> 00:07:41,000
+it's not
+
+98
+00:07:41,000 --> 00:07:42,800
+it's literally the opposite
+
+99
+00:07:42,800 --> 00:07:44,020
+it's really really boring
+
+100
+00:07:44,020 --> 00:07:47,920
+and secondly if you're a retail trader
+
+101
+00:07:47,920 --> 00:07:50,320
+the vast majority of what guys
+
+102
+00:07:50,320 --> 00:07:51,200
+at investment banks do
+
+103
+00:07:51,200 --> 00:07:52,520
+if you're trying to emulate them
+
+104
+00:07:52,520 --> 00:07:54,260
+you're not emulating
+
+105
+00:07:54,260 --> 00:07:56,060
+what they do the vast majority of the time
+
+106
+00:07:56,060 --> 00:08:01,420
+because your objective is to make money
+
+107
+00:08:01,420 --> 00:08:02,460
+using your own money
+
+108
+00:08:02,460 --> 00:08:05,400
+not execute client's orders
+
+109
+00:08:05,400 --> 00:08:06,280
+through an algorithm
+
+110
+00:08:06,280 --> 00:08:10,800
+but 20% of the market making business
+
+111
+00:08:10,800 --> 00:08:12,740
+is on risk
+
+112
+00:08:12,740 --> 00:08:16,340
+so instead of a client calling into the office
+
+113
+00:08:16,340 --> 00:08:17,920
+pension fund, hedge fund
+
+114
+00:08:17,920 --> 00:08:21,080
+and giving a risk free order
+
+115
+00:08:21,080 --> 00:08:23,000
+to the trader
+
+116
+00:08:23,000 --> 00:08:24,760
+which they just bung in an algorithm
+
+117
+00:08:24,760 --> 00:08:29,680
+the phone rings
+
+118
+00:08:29,680 --> 00:08:32,980
+and a sales person picks it up
+
+119
+00:08:32,980 --> 00:08:36,140
+and the client asks
+
+120
+00:08:36,140 --> 00:08:37,500
+for a price
+
+121
+00:08:37,500 --> 00:08:39,320
+in the asset
+
+122
+00:08:39,320 --> 00:08:42,280
+and the market maker goes on risk
+
+123
+00:08:42,280 --> 00:08:42,980
+to the client
+
+124
+00:08:42,980 --> 00:08:44,260
+what does that mean?
+
+125
+00:08:44,260 --> 00:08:45,600
+they take the other side
+
+126
+00:08:45,600 --> 00:08:47,400
+so an example here
+
+127
+00:08:47,400 --> 00:08:49,260
+buying $10 million of Apple stock
+
+128
+00:08:49,260 --> 00:08:51,060
+at $500
+
+129
+00:08:51,060 --> 00:08:54,520
+so 20,000 shares
+
+130
+00:08:54,520 --> 00:08:55,940
+what actually happens
+
+131
+00:08:55,940 --> 00:08:57,120
+the trader is short
+
+132
+00:08:57,120 --> 00:08:58,000
+on the other side
+
+133
+00:08:58,000 --> 00:09:01,520
+so they're short
+
+134
+00:09:01,520 --> 00:09:02,820
+$10 million of Apple stock
+
+135
+00:09:02,820 --> 00:09:04,220
+at $500
+
+136
+00:09:04,220 --> 00:09:06,540
+if they buy it back above $500
+
+137
+00:09:06,540 --> 00:09:07,000
+they lose
+
+138
+00:09:07,000 --> 00:09:10,540
+so what does that actually mean?
+
+139
+00:09:11,900 --> 00:09:12,640
+well it means
+
+140
+00:09:12,640 --> 00:09:14,000
+the trading function
+
+141
+00:09:14,000 --> 00:09:15,840
+in the risk model
+
+142
+00:09:15,840 --> 00:09:17,800
+is to be the gatekeeper
+
+143
+00:09:17,800 --> 00:09:19,040
+of the bank's balance sheet
+
+144
+00:09:19,040 --> 00:09:22,960
+so the trader uses
+
+145
+00:09:22,960 --> 00:09:23,920
+the bank's balance sheet
+
+146
+00:09:23,920 --> 00:09:25,080
+to attract business
+
+147
+00:09:25,080 --> 00:09:25,820
+into the company
+
+148
+00:09:25,820 --> 00:09:30,460
+so if they lose a dollar
+
+149
+00:09:30,460 --> 00:09:31,680
+on that
+
+150
+00:09:31,680 --> 00:09:33,060
+they buy it back at $501
+
+151
+00:09:33,060 --> 00:09:34,680
+they're losing $20,000
+
+152
+00:09:34,680 --> 00:09:38,080
+does that make sense?
+
+153
+00:09:39,640 --> 00:09:40,700
+now if they're trading
+
+154
+00:09:40,700 --> 00:09:41,720
+they're not trading
+
+155
+00:09:41,720 --> 00:09:42,700
+one stock at a time
+
+156
+00:09:42,700 --> 00:09:44,320
+typically
+
+157
+00:09:44,320 --> 00:09:45,980
+a professional trader
+
+158
+00:09:45,980 --> 00:09:46,760
+in an investment bank
+
+159
+00:09:46,760 --> 00:09:48,100
+will be trading
+
+160
+00:09:48,100 --> 00:09:49,560
+between 50 and 100 stocks
+
+161
+00:09:49,560 --> 00:09:50,520
+at any one time
+
+162
+00:09:50,520 --> 00:09:55,280
+and what that is known as
+
+163
+00:09:55,280 --> 00:09:56,440
+in the industry
+
+164
+00:09:56,440 --> 00:09:58,420
+is a negative selection portfolio
+
+165
+00:09:58,420 --> 00:10:01,300
+you end up
+
+166
+00:10:01,300 --> 00:10:02,900
+with 50 to 100 positions
+
+167
+00:10:02,900 --> 00:10:04,920
+in stocks
+
+168
+00:10:04,920 --> 00:10:06,400
+or the assets that you trade
+
+169
+00:10:06,400 --> 00:10:08,100
+which you don't even want
+
+170
+00:10:08,100 --> 00:10:14,600
+the reason why you're doing it
+
+171
+00:10:14,600 --> 00:10:16,000
+is to bring business
+
+172
+00:10:16,000 --> 00:10:16,640
+into the firm
+
+173
+00:10:16,640 --> 00:10:19,440
+so you get the commission
+
+174
+00:10:19,440 --> 00:10:20,640
+so the bank gets the commission
+
+175
+00:10:20,640 --> 00:10:24,260
+and where do those commissions
+
+176
+00:10:24,260 --> 00:10:24,880
+get tagged?
+
+177
+00:10:25,340 --> 00:10:26,040
+they get tagged
+
+178
+00:10:26,040 --> 00:10:27,900
+on the sales desk
+
+179
+00:10:27,900 --> 00:10:30,700
+so the traders
+
+180
+00:10:30,700 --> 00:10:32,260
+on the trading desk
+
+181
+00:10:32,260 --> 00:10:33,800
+offer the bank's balance sheet
+
+182
+00:10:33,800 --> 00:10:35,120
+to the world
+
+183
+00:10:35,120 --> 00:10:37,640
+as liquidity
+
+184
+00:10:37,640 --> 00:10:39,860
+and then pension funds
+
+185
+00:10:39,860 --> 00:10:40,360
+and hedge funds
+
+186
+00:10:40,360 --> 00:10:40,760
+come in
+
+187
+00:10:40,760 --> 00:10:42,000
+and use that balance sheet
+
+188
+00:10:42,000 --> 00:10:42,480
+to trade
+
+189
+00:10:42,480 --> 00:10:46,460
+and then they get rewarded
+
+190
+00:10:46,460 --> 00:10:48,600
+by doing big trades
+
+191
+00:10:48,600 --> 00:10:49,620
+on risk
+
+192
+00:10:49,620 --> 00:10:51,040
+by getting
+
+193
+00:10:51,040 --> 00:10:51,940
+nice
+
+194
+00:10:51,940 --> 00:10:52,460
+juicy
+
+195
+00:10:52,460 --> 00:10:53,800
+free agency orders
+
+196
+00:10:53,800 --> 00:10:55,160
+to say thank you
+
+197
+00:10:55,160 --> 00:10:56,000
+next week
+
+198
+00:10:56,000 --> 00:10:58,200
+thank you for the week before
+
+199
+00:10:58,200 --> 00:10:59,840
+for going on risk to me
+
+200
+00:10:59,840 --> 00:11:00,520
+in a situation
+
+201
+00:11:00,520 --> 00:11:02,240
+where you knew
+
+202
+00:11:02,240 --> 00:11:03,260
+you were probably going to lose money
+
+203
+00:11:03,260 --> 00:11:10,280
+and the ability
+
+204
+00:11:10,280 --> 00:11:11,040
+of the market maker
+
+205
+00:11:11,040 --> 00:11:12,320
+is really
+
+206
+00:11:12,320 --> 00:11:15,220
+priced on
+
+207
+00:11:15,220 --> 00:11:16,080
+their ability
+
+208
+00:11:16,080 --> 00:11:17,060
+to keep the commission
+
+209
+00:11:17,060 --> 00:11:21,940
+and we call that
+
+210
+00:11:21,940 --> 00:11:22,660
+a loss ratio
+
+211
+00:11:22,660 --> 00:11:23,940
+or a retention ratio
+
+212
+00:11:23,940 --> 00:11:27,940
+so if a hundred million dollars
+
+213
+00:11:27,940 --> 00:11:28,460
+comes in
+
+214
+00:11:28,460 --> 00:11:29,280
+in one year
+
+215
+00:11:29,280 --> 00:11:31,700
+and you manage to keep
+
+216
+00:11:31,700 --> 00:11:32,820
+eighty million dollars of it
+
+217
+00:11:32,820 --> 00:11:35,340
+which is a bloody good performance
+
+218
+00:11:35,340 --> 00:11:38,440
+your retention ratio
+
+219
+00:11:38,440 --> 00:11:39,160
+is eighty percent
+
+220
+00:11:39,160 --> 00:11:40,980
+which means you're a
+
+221
+00:11:40,980 --> 00:11:41,860
+shit hot market maker
+
+222
+00:11:41,860 --> 00:11:47,640
+so
+
+223
+00:11:47,640 --> 00:11:50,000
+that's eighty percent
+
+224
+00:11:50,000 --> 00:11:50,380
+of the time
+
+225
+00:11:50,380 --> 00:11:50,900
+eighty percent
+
+226
+00:11:50,900 --> 00:11:51,320
+of the time
+
+227
+00:11:51,320 --> 00:11:51,760
+agency
+
+228
+00:11:51,760 --> 00:11:53,100
+twenty percent risk
+
+229
+00:11:53,100 --> 00:11:57,500
+but
+
+230
+00:11:57,500 --> 00:11:58,480
+it's ninety percent
+
+231
+00:11:58,480 --> 00:11:58,900
+of the time
+
+232
+00:11:58,900 --> 00:12:01,500
+so only ten percent
+
+233
+00:12:01,500 --> 00:12:01,860
+of it
+
+234
+00:12:01,860 --> 00:12:03,660
+is spent
+
+235
+00:12:03,660 --> 00:12:04,460
+actually
+
+236
+00:12:04,460 --> 00:12:05,840
+doing what's called
+
+237
+00:12:05,840 --> 00:12:06,940
+well the polar opposite
+
+238
+00:12:06,940 --> 00:12:09,620
+trading
+
+239
+00:12:09,620 --> 00:12:10,360
+proprietarily
+
+240
+00:12:10,360 --> 00:12:12,320
+as in
+
+241
+00:12:12,320 --> 00:12:14,620
+everything that the bank does
+
+242
+00:12:14,620 --> 00:12:16,160
+proprietary to doing business
+
+243
+00:12:16,160 --> 00:12:16,700
+with clients
+
+244
+00:12:16,700 --> 00:12:17,780
+that's why it's called
+
+245
+00:12:17,780 --> 00:12:18,500
+proprietary trading
+
+246
+00:12:18,500 --> 00:12:21,780
+and it's the polar opposite
+
+247
+00:12:21,780 --> 00:12:24,840
+because the traders
+
+248
+00:12:24,840 --> 00:12:25,680
+are using the bank's
+
+249
+00:12:25,680 --> 00:12:26,100
+balance sheet
+
+250
+00:12:26,100 --> 00:12:27,640
+to do the opposite
+
+251
+00:12:27,640 --> 00:12:28,780
+of a negative selection
+
+252
+00:12:28,780 --> 00:12:29,200
+portfolio
+
+253
+00:12:29,200 --> 00:12:34,120
+so what they're trying to do
+
+254
+00:12:34,120 --> 00:12:35,540
+is use the bank's
+
+255
+00:12:35,540 --> 00:12:35,960
+balance sheet
+
+256
+00:12:35,960 --> 00:12:36,860
+to make back
+
+257
+00:12:36,860 --> 00:12:38,380
+the twenty million dollars
+
+258
+00:12:38,380 --> 00:12:39,000
+that they lost
+
+259
+00:12:39,000 --> 00:12:39,660
+doing business
+
+260
+00:12:39,660 --> 00:12:51,620
+so the vast majority
+
+261
+00:12:51,620 --> 00:12:52,480
+of the time is spent
+
+262
+00:12:52,480 --> 00:12:54,600
+supervising
+
+263
+00:12:54,600 --> 00:12:55,200
+algorithms
+
+264
+00:12:55,200 --> 00:12:59,980
+ten percent
+
+265
+00:12:59,980 --> 00:13:03,460
+spent managing a positive
+
+266
+00:13:03,460 --> 00:13:04,340
+selection portfolio
+
+267
+00:13:04,340 --> 00:13:06,160
+and they're typically
+
+268
+00:13:06,160 --> 00:13:07,320
+long short portfolios
+
+269
+00:13:07,320 --> 00:13:11,020
+so they want to be
+
+270
+00:13:11,020 --> 00:13:11,580
+longer stock
+
+271
+00:13:11,580 --> 00:13:12,360
+they want to be
+
+272
+00:13:12,360 --> 00:13:12,960
+shorter stock
+
+273
+00:13:12,960 --> 00:13:13,880
+they build that
+
+274
+00:13:13,880 --> 00:13:14,260
+portfolio
+
+275
+00:13:14,260 --> 00:13:14,980
+and they run it
+
+276
+00:13:14,980 --> 00:13:17,540
+and typically
+
+277
+00:13:17,540 --> 00:13:18,420
+it's a one to three
+
+278
+00:13:18,420 --> 00:13:18,760
+month
+
+279
+00:13:18,760 --> 00:13:19,600
+time horizon
+
+280
+00:13:19,600 --> 00:13:27,060
+and this is what a typical
+
+281
+00:13:27,060 --> 00:13:28,780
+guy's business
+
+282
+00:13:28,780 --> 00:13:30,360
+so if you just walk up to a
+
+283
+00:13:30,360 --> 00:13:31,300
+guy on a trading desk
+
+284
+00:13:31,300 --> 00:13:32,240
+at an investment bank
+
+285
+00:13:32,240 --> 00:13:33,340
+and say
+
+286
+00:13:33,340 --> 00:13:33,960
+what do you trade
+
+287
+00:13:33,960 --> 00:13:36,060
+you guys say
+
+288
+00:13:36,060 --> 00:13:36,460
+I'll trade
+
+289
+00:13:36,460 --> 00:13:38,240
+the top
+
+290
+00:13:38,240 --> 00:13:39,020
+100
+
+291
+00:13:39,020 --> 00:13:40,340
+S&P 500 stocks
+
+292
+00:13:40,340 --> 00:13:42,200
+for XYZ bank
+
+293
+00:13:42,200 --> 00:13:44,520
+this is what the business
+
+294
+00:13:44,520 --> 00:13:45,340
+will probably look like
+
+295
+00:13:45,340 --> 00:13:49,360
+in a typical fiscal year
+
+296
+00:13:49,360 --> 00:13:50,360
+commission generated
+
+297
+00:13:50,360 --> 00:13:51,480
+50 million
+
+298
+00:13:51,480 --> 00:13:54,480
+with a retention ratio
+
+299
+00:13:54,480 --> 00:13:55,280
+of 70%
+
+300
+00:13:55,280 --> 00:13:59,100
+and then the same amount
+
+301
+00:13:59,100 --> 00:14:00,400
+of commission coming in
+
+302
+00:14:00,400 --> 00:14:01,620
+roughly speaking
+
+303
+00:14:01,620 --> 00:14:03,340
+exposure
+
+304
+00:14:03,340 --> 00:14:04,480
+in the proprietary trading
+
+305
+00:14:04,480 --> 00:14:04,800
+account
+
+306
+00:14:04,800 --> 00:14:06,320
+trying to make
+
+307
+00:14:06,320 --> 00:14:06,940
+20%
+
+308
+00:14:06,940 --> 00:14:10,560
+and then
+
+309
+00:14:10,560 --> 00:14:11,160
+the net
+
+310
+00:14:11,160 --> 00:14:12,080
+loss ratio
+
+311
+00:14:12,080 --> 00:14:14,600
+so you end up
+
+312
+00:14:14,600 --> 00:14:15,340
+with a total revenue
+
+313
+00:14:15,340 --> 00:14:15,920
+of 45
+
+314
+00:14:15,920 --> 00:14:16,900
+on a turnover
+
+315
+00:14:16,900 --> 00:14:17,380
+of 50
+
+316
+00:14:17,380 --> 00:14:20,820
+which is a pretty
+
+317
+00:14:20,820 --> 00:14:21,420
+good performance
+
+318
+00:14:21,420 --> 00:14:22,760
+that's a decent year
+
+319
+00:14:22,760 --> 00:14:26,380
+the bank then
+
+320
+00:14:26,380 --> 00:14:26,980
+gives that trader
+
+321
+00:14:26,980 --> 00:14:27,920
+a discretionary bonus
+
+322
+00:14:27,920 --> 00:14:29,180
+so they just
+
+323
+00:14:29,180 --> 00:14:29,600
+pull a number
+
+324
+00:14:29,600 --> 00:14:30,160
+out of thin air
+
+325
+00:14:30,160 --> 00:14:34,480
+it's not fixed
+
+326
+00:14:34,480 --> 00:14:36,060
+it's just made up
+
+327
+00:14:36,060 --> 00:14:37,660
+so when you sign
+
+328
+00:14:37,660 --> 00:14:38,200
+your contract
+
+329
+00:14:38,200 --> 00:14:38,780
+to go and work
+
+330
+00:14:38,780 --> 00:14:39,500
+for an investment bank
+
+331
+00:14:39,500 --> 00:14:40,800
+your contract
+
+332
+00:14:40,800 --> 00:14:41,560
+literally says
+
+333
+00:14:41,560 --> 00:14:42,460
+your bonus is
+
+334
+00:14:42,460 --> 00:14:43,160
+at the discretion
+
+335
+00:14:43,160 --> 00:14:43,780
+of the bank
+
+336
+00:14:43,780 --> 00:14:46,380
+and you have
+
+337
+00:14:46,380 --> 00:14:47,140
+your bonus meetings
+
+338
+00:14:47,140 --> 00:14:48,640
+leading into
+
+339
+00:14:48,640 --> 00:14:49,920
+the day you'll get told
+
+340
+00:14:49,920 --> 00:14:51,280
+and then you get
+
+341
+00:14:51,280 --> 00:14:52,100
+called in and get told
+
+342
+00:14:52,100 --> 00:14:54,280
+and that's the
+
+343
+00:14:54,280 --> 00:14:54,840
+the day that
+
+344
+00:14:54,840 --> 00:14:55,660
+everybody in the year
+
+345
+00:14:55,660 --> 00:14:56,280
+looks forward to
+
+346
+00:14:56,280 --> 00:14:57,880
+or dreads
+
+347
+00:14:57,880 --> 00:15:02,040
+basic salary is paid
+
+348
+00:15:02,040 --> 00:15:03,400
+which is
+
+349
+00:15:03,400 --> 00:15:04,400
+usually less than
+
+350
+00:15:04,400 --> 00:15:04,800
+your bonus
+
+351
+00:15:04,800 --> 00:15:05,320
+if you're getting
+
+352
+00:15:05,320 --> 00:15:05,840
+paid a bonus
+
+353
+00:15:05,840 --> 00:15:06,340
+less than your
+
+354
+00:15:06,340 --> 00:15:06,940
+basic salary
+
+355
+00:15:06,940 --> 00:15:07,860
+you shouldn't be
+
+356
+00:15:07,860 --> 00:15:09,020
+working in the
+
+357
+00:15:09,020 --> 00:15:09,580
+investment banking
+
+358
+00:15:09,580 --> 00:15:09,920
+industry
+
+359
+00:15:09,920 --> 00:15:14,060
+and then an overhead
+
+360
+00:15:14,060 --> 00:15:14,500
+cost
+
+361
+00:15:14,500 --> 00:15:15,920
+because it cost the
+
+362
+00:15:15,920 --> 00:15:16,680
+bank a million dollars
+
+363
+00:15:16,680 --> 00:15:17,340
+for you to sit there
+
+364
+00:15:17,340 --> 00:15:21,920
+so total profit
+
+365
+00:15:21,920 --> 00:15:23,980
+attributed to a trader
+
+366
+00:15:23,980 --> 00:15:25,800
+might look something
+
+367
+00:15:25,800 --> 00:15:26,400
+like that
+
+368
+00:15:26,400 --> 00:15:27,820
+these days
+
+369
+00:15:27,820 --> 00:15:29,140
+in my day
+
+370
+00:15:29,140 --> 00:15:30,360
+it was double
+
+371
+00:15:30,360 --> 00:15:36,560
+so really what have we
+
+372
+00:15:36,560 --> 00:15:36,980
+learned here
+
+373
+00:15:36,980 --> 00:15:37,460
+well
+
+374
+00:15:37,460 --> 00:15:39,420
+in emulating
+
+375
+00:15:39,420 --> 00:15:40,360
+professional traders
+
+376
+00:15:40,360 --> 00:15:42,520
+at an investment bank
+
+377
+00:15:42,520 --> 00:15:44,380
+you're not really
+
+378
+00:15:44,380 --> 00:15:45,300
+trying to emulate
+
+379
+00:15:45,300 --> 00:15:46,260
+at all
+
+380
+00:15:46,260 --> 00:15:47,240
+what the professional trader
+
+381
+00:15:47,240 --> 00:15:48,120
+does as a market maker
+
+382
+00:15:48,120 --> 00:15:49,340
+your objective
+
+383
+00:15:49,340 --> 00:15:50,240
+as a retail trader
+
+384
+00:15:50,240 --> 00:15:51,440
+to make money
+
+385
+00:15:51,440 --> 00:15:52,240
+with your own money
+
+386
+00:15:52,240 --> 00:15:53,420
+is more aligned
+
+387
+00:15:53,420 --> 00:15:54,140
+with their
+
+388
+00:15:54,140 --> 00:15:55,700
+positive selection
+
+389
+00:15:55,700 --> 00:15:56,220
+portfolio
+
+390
+00:15:56,220 --> 00:15:59,300
+so 90%
+
+391
+00:15:59,300 --> 00:15:59,900
+of everything
+
+392
+00:15:59,900 --> 00:16:00,360
+they do
+
+393
+00:16:00,360 --> 00:16:02,180
+has got nothing
+
+394
+00:16:02,180 --> 00:16:02,940
+to do with your
+
+395
+00:16:02,940 --> 00:16:03,320
+interest
+
+396
+00:16:03,320 --> 00:16:05,020
+unless you want
+
+397
+00:16:05,020 --> 00:16:05,420
+to go and do
+
+398
+00:16:05,420 --> 00:16:06,260
+unless you want to go
+
+399
+00:16:06,260 --> 00:16:07,160
+and work for a bank
+
+400
+00:16:07,160 --> 00:16:09,000
+and become one of the
+
+401
+00:16:09,000 --> 00:16:10,040
+guys that supervises
+
+402
+00:16:10,040 --> 00:16:10,960
+electronic orders
+
+403
+00:16:10,960 --> 00:16:15,180
+but most importantly
+
+404
+00:16:15,180 --> 00:16:17,260
+or one of the most
+
+405
+00:16:17,260 --> 00:16:17,840
+important things
+
+406
+00:16:17,840 --> 00:16:21,240
+you'll see that a trader
+
+407
+00:16:21,240 --> 00:16:21,880
+in an investment bank
+
+408
+00:16:21,880 --> 00:16:22,760
+has a basic salary
+
+409
+00:16:22,760 --> 00:16:27,000
+I'll make a statement
+
+410
+00:16:27,000 --> 00:16:27,860
+and never ever
+
+411
+00:16:27,860 --> 00:16:28,680
+ever forget it
+
+412
+00:16:28,680 --> 00:16:30,260
+every single
+
+413
+00:16:30,260 --> 00:16:31,120
+professional trader
+
+414
+00:16:31,120 --> 00:16:31,740
+in the world
+
+415
+00:16:31,740 --> 00:16:33,220
+has a basic salary
+
+416
+00:16:33,220 --> 00:16:37,840
+every professional trader
+
+417
+00:16:37,840 --> 00:16:40,500
+if they don't
+
+418
+00:16:40,500 --> 00:16:41,020
+they're being
+
+419
+00:16:41,020 --> 00:16:41,540
+legged over
+
+420
+00:16:41,540 --> 00:16:42,680
+by the company
+
+421
+00:16:42,680 --> 00:16:43,620
+that's hired them
+
+422
+00:16:43,620 --> 00:16:48,900
+and if they make
+
+423
+00:16:48,900 --> 00:16:49,240
+no money
+
+424
+00:16:49,240 --> 00:16:49,720
+in the proprietary
+
+425
+00:16:49,720 --> 00:16:50,340
+trading account
+
+426
+00:16:50,340 --> 00:16:51,260
+they don't get a bonus
+
+427
+00:16:51,260 --> 00:16:52,520
+if they make money
+
+428
+00:16:52,520 --> 00:16:53,120
+they get a bonus
+
+429
+00:16:53,120 --> 00:16:55,300
+we'll come back
+
+430
+00:16:55,300 --> 00:16:55,880
+to this later
+
+431
+00:16:55,880 --> 00:16:56,820
+the issue
+
+432
+00:16:56,820 --> 00:16:58,000
+of a basic salary
+
+433
+00:16:58,000 --> 00:17:01,880
+so what does
+
+434
+00:17:01,880 --> 00:17:02,560
+a professional trader
+
+435
+00:17:02,560 --> 00:17:03,240
+at a hedge fund do
+
+436
+00:17:03,240 --> 00:17:07,240
+first things first
+
+437
+00:17:07,240 --> 00:17:08,520
+protect the capital
+
+438
+00:17:08,520 --> 00:17:09,640
+of their investors
+
+439
+00:17:09,640 --> 00:17:13,640
+by making money
+
+440
+00:17:13,640 --> 00:17:14,580
+in markets
+
+441
+00:17:14,580 --> 00:17:15,120
+that go up
+
+442
+00:17:15,120 --> 00:17:15,940
+and markets
+
+443
+00:17:15,940 --> 00:17:16,480
+that go down
+
+444
+00:17:16,480 --> 00:17:20,100
+but professional traders
+
+445
+00:17:20,100 --> 00:17:20,700
+at hedge funds
+
+446
+00:17:20,700 --> 00:17:22,080
+usually called
+
+447
+00:17:22,080 --> 00:17:22,800
+PMs
+
+448
+00:17:22,800 --> 00:17:24,080
+portfolio managers
+
+449
+00:17:24,080 --> 00:17:25,840
+why?
+
+450
+00:17:26,140 --> 00:17:26,840
+pretty obvious
+
+451
+00:17:26,840 --> 00:17:27,820
+they manage portfolios
+
+452
+00:17:27,820 --> 00:17:30,980
+they don't go home
+
+453
+00:17:30,980 --> 00:17:31,260
+at night
+
+454
+00:17:31,260 --> 00:17:31,960
+with no positions
+
+455
+00:17:31,960 --> 00:17:32,880
+walk in the next day
+
+456
+00:17:32,880 --> 00:17:34,120
+get massively long
+
+457
+00:17:34,120 --> 00:17:34,540
+the market
+
+458
+00:17:34,540 --> 00:17:35,780
+and then close out
+
+459
+00:17:35,780 --> 00:17:36,740
+at 3 in the afternoon
+
+460
+00:17:36,740 --> 00:17:37,960
+and go for drinks
+
+461
+00:17:37,960 --> 00:17:41,420
+they're running portfolios
+
+462
+00:17:41,420 --> 00:17:43,320
+they take overnight risk
+
+463
+00:17:43,320 --> 00:17:45,040
+and the time horizon
+
+464
+00:17:45,040 --> 00:17:45,600
+can be anything
+
+465
+00:17:45,600 --> 00:17:47,240
+from 1 to 18 months
+
+466
+00:17:47,240 --> 00:17:47,700
+usually
+
+467
+00:17:47,700 --> 00:17:50,780
+but it's usually 3
+
+468
+00:17:50,780 --> 00:17:52,700
+a 3 month time horizon
+
+469
+00:17:52,700 --> 00:17:58,160
+there's no market
+
+470
+00:17:58,160 --> 00:17:58,900
+making activity
+
+471
+00:17:58,900 --> 00:18:01,720
+but their function
+
+472
+00:18:01,720 --> 00:18:02,980
+is extremely similar
+
+473
+00:18:02,980 --> 00:18:04,080
+to the prop trading
+
+474
+00:18:04,080 --> 00:18:04,460
+function
+
+475
+00:18:04,460 --> 00:18:05,420
+at an investment bank
+
+476
+00:18:05,420 --> 00:18:07,640
+the positive selection
+
+477
+00:18:07,640 --> 00:18:08,080
+portfolio
+
+478
+00:18:08,080 --> 00:18:11,520
+the only difference
+
+479
+00:18:11,520 --> 00:18:12,480
+is the structure
+
+480
+00:18:12,480 --> 00:18:13,220
+of the business
+
+481
+00:18:13,220 --> 00:18:14,100
+that they operate in
+
+482
+00:18:14,100 --> 00:18:15,480
+essentially
+
+483
+00:18:15,480 --> 00:18:16,600
+the trading
+
+484
+00:18:16,600 --> 00:18:18,540
+the way they do things
+
+485
+00:18:18,540 --> 00:18:19,360
+the processes
+
+486
+00:18:19,360 --> 00:18:20,000
+they go through
+
+487
+00:18:20,000 --> 00:18:21,060
+to choose
+
+488
+00:18:21,060 --> 00:18:21,580
+what they want
+
+489
+00:18:21,580 --> 00:18:22,240
+to buy in short
+
+490
+00:18:22,240 --> 00:18:24,340
+are exactly the same
+
+491
+00:18:24,340 --> 00:18:26,220
+it's no coincidence
+
+492
+00:18:26,220 --> 00:18:27,640
+why there's so many
+
+493
+00:18:27,640 --> 00:18:28,240
+of the world's
+
+494
+00:18:28,240 --> 00:18:29,120
+top hedge fund managers
+
+495
+00:18:29,120 --> 00:18:29,720
+are ex
+
+496
+00:18:29,720 --> 00:18:30,640
+Goldman Sachs
+
+497
+00:18:30,640 --> 00:18:31,160
+ex
+
+498
+00:18:31,160 --> 00:18:31,800
+Morgan Stanley
+
+499
+00:18:31,800 --> 00:18:33,100
+they've all been
+
+500
+00:18:33,100 --> 00:18:33,600
+prop traders
+
+501
+00:18:33,600 --> 00:18:34,300
+at investment banks
+
+502
+00:18:34,300 --> 00:18:34,760
+in the past
+
+503
+00:18:34,760 --> 00:18:36,380
+and then they've gone on
+
+504
+00:18:36,380 --> 00:18:38,280
+to do the same function
+
+505
+00:18:38,280 --> 00:18:41,120
+with outside investors money
+
+506
+00:18:41,120 --> 00:18:42,200
+not the bank's money
+
+507
+00:18:42,200 --> 00:18:49,980
+the guys at investment banks
+
+508
+00:18:49,980 --> 00:18:50,980
+are utilising
+
+509
+00:18:50,980 --> 00:18:52,040
+the bank's capital
+
+510
+00:18:52,040 --> 00:18:52,740
+so essentially
+
+511
+00:18:52,740 --> 00:18:53,700
+that's shareholders money
+
+512
+00:18:53,700 --> 00:18:54,640
+they're public companies
+
+513
+00:18:54,640 --> 00:19:00,160
+so let's go through
+
+514
+00:19:00,160 --> 00:19:01,100
+some basics
+
+515
+00:19:01,100 --> 00:19:01,800
+of a hedge fund
+
+516
+00:19:01,800 --> 00:19:04,540
+but why is it called
+
+517
+00:19:04,540 --> 00:19:05,020
+a hedge fund
+
+518
+00:19:05,020 --> 00:19:10,560
+because they use strategies
+
+519
+00:19:10,560 --> 00:19:11,440
+that hedge up risk
+
+520
+00:19:11,440 --> 00:19:13,900
+so they can make money
+
+521
+00:19:13,900 --> 00:19:14,380
+when the market
+
+522
+00:19:14,380 --> 00:19:15,360
+goes up and down
+
+523
+00:19:15,360 --> 00:19:19,520
+but how is it structured
+
+524
+00:19:19,520 --> 00:19:22,180
+it's just an investment vehicle
+
+525
+00:19:22,180 --> 00:19:23,980
+for high net worth
+
+526
+00:19:23,980 --> 00:19:24,640
+and institutions
+
+527
+00:19:24,640 --> 00:19:25,400
+to invest in
+
+528
+00:19:25,400 --> 00:19:28,380
+and you have an onshore
+
+529
+00:19:28,380 --> 00:19:29,360
+management company
+
+530
+00:19:29,360 --> 00:19:30,440
+and an offshore
+
+531
+00:19:30,440 --> 00:19:31,620
+holding company
+
+532
+00:19:31,620 --> 00:19:35,480
+and the management company
+
+533
+00:19:35,480 --> 00:19:36,080
+charges
+
+534
+00:19:36,080 --> 00:19:38,420
+a 1-2% management fee
+
+535
+00:19:38,420 --> 00:19:40,420
+to manage the money
+
+536
+00:19:40,420 --> 00:19:44,140
+and an annual performance fee
+
+537
+00:19:44,140 --> 00:19:46,960
+on the money they make
+
+538
+00:19:46,960 --> 00:19:47,960
+using the capital
+
+539
+00:19:47,960 --> 00:19:49,800
+in their positive selection portfolio
+
+540
+00:19:49,800 --> 00:19:54,920
+but what's very interesting
+
+541
+00:19:54,920 --> 00:19:55,640
+about hedge funds
+
+542
+00:19:55,640 --> 00:19:57,140
+is that when they go
+
+543
+00:19:57,140 --> 00:19:58,100
+and pitch high net worth
+
+544
+00:19:58,100 --> 00:19:58,720
+in institutions
+
+545
+00:19:58,720 --> 00:20:00,520
+as part of their pitch
+
+546
+00:20:00,520 --> 00:20:02,840
+and one of the conditions
+
+547
+00:20:02,840 --> 00:20:05,440
+that investors have
+
+548
+00:20:05,440 --> 00:20:08,040
+to invest in the fund
+
+549
+00:20:08,040 --> 00:20:09,460
+is that
+
+550
+00:20:09,460 --> 00:20:10,340
+in a given year
+
+551
+00:20:10,340 --> 00:20:12,780
+on the performance fee
+
+552
+00:20:12,780 --> 00:20:14,800
+at least half
+
+553
+00:20:14,800 --> 00:20:15,560
+of the performance fee
+
+554
+00:20:15,560 --> 00:20:16,700
+must be reinvested
+
+555
+00:20:16,700 --> 00:20:17,720
+in the fund
+
+556
+00:20:17,720 --> 00:20:21,140
+no hedge fund
+
+557
+00:20:21,140 --> 00:20:22,220
+charges a performance fee
+
+558
+00:20:22,220 --> 00:20:23,680
+takes their money
+
+559
+00:20:23,680 --> 00:20:24,260
+and runs
+
+560
+00:20:24,260 --> 00:20:27,600
+they have to reinvest
+
+561
+00:20:27,600 --> 00:20:28,400
+at least half of it
+
+562
+00:20:28,400 --> 00:20:35,420
+so let's have a look
+
+563
+00:20:35,420 --> 00:20:36,800
+at a typical hedge fund structure
+
+564
+00:20:36,800 --> 00:20:37,620
+hedge fund example
+
+565
+00:20:37,620 --> 00:20:40,980
+of what might happen
+
+566
+00:20:40,980 --> 00:20:41,700
+in a typical year
+
+567
+00:20:41,700 --> 00:20:44,640
+so let's say
+
+568
+00:20:44,640 --> 00:20:45,040
+they're holding
+
+569
+00:20:45,040 --> 00:20:46,140
+a hundred million dollars
+
+570
+00:20:46,140 --> 00:20:47,700
+of investor money
+
+571
+00:20:47,700 --> 00:20:49,320
+as assets under management
+
+572
+00:20:49,320 --> 00:20:51,840
+and they've got 50 positions
+
+573
+00:20:51,840 --> 00:20:52,720
+25 long
+
+574
+00:20:52,720 --> 00:20:53,700
+25 short
+
+575
+00:20:53,700 --> 00:20:57,720
+and they have a self-imposed
+
+576
+00:20:57,720 --> 00:20:59,340
+position limit
+
+577
+00:20:59,340 --> 00:21:01,200
+so no position
+
+578
+00:21:01,200 --> 00:21:01,880
+can be bigger
+
+579
+00:21:01,880 --> 00:21:02,820
+than 2%
+
+580
+00:21:02,820 --> 00:21:03,540
+in the portfolio
+
+581
+00:21:03,540 --> 00:21:06,480
+so nothing
+
+582
+00:21:06,480 --> 00:21:06,940
+can be over
+
+583
+00:21:06,940 --> 00:21:07,680
+2 million dollars
+
+584
+00:21:07,680 --> 00:21:09,160
+that's a very
+
+585
+00:21:09,160 --> 00:21:10,040
+diverse hedge fund
+
+586
+00:21:10,040 --> 00:21:11,720
+they're not taking
+
+587
+00:21:11,720 --> 00:21:12,500
+a great deal
+
+588
+00:21:12,500 --> 00:21:12,940
+of risk
+
+589
+00:21:12,940 --> 00:21:15,480
+let's say
+
+590
+00:21:15,480 --> 00:21:15,880
+last year
+
+591
+00:21:15,880 --> 00:21:16,160
+they made
+
+592
+00:21:16,160 --> 00:21:17,160
+a 20% return
+
+593
+00:21:17,160 --> 00:21:18,580
+on a portfolio
+
+594
+00:21:18,580 --> 00:21:19,620
+with mid-teens
+
+595
+00:21:19,620 --> 00:21:20,080
+volatility
+
+596
+00:21:20,080 --> 00:21:22,380
+that's a good
+
+597
+00:21:22,380 --> 00:21:22,800
+hedge fund
+
+598
+00:21:22,800 --> 00:21:25,320
+if they're diverse
+
+599
+00:21:25,320 --> 00:21:25,860
+that much
+
+600
+00:21:25,860 --> 00:21:26,880
+they make 20%
+
+601
+00:21:26,880 --> 00:21:28,100
+and they get
+
+602
+00:21:28,100 --> 00:21:28,920
+and it's on
+
+603
+00:21:28,920 --> 00:21:29,380
+mid-teens
+
+604
+00:21:29,380 --> 00:21:29,820
+volatility
+
+605
+00:21:29,820 --> 00:21:31,880
+they're doing
+
+606
+00:21:31,880 --> 00:21:32,340
+really well
+
+607
+00:21:32,340 --> 00:21:32,700
+they've had
+
+608
+00:21:32,700 --> 00:21:33,160
+a good year
+
+609
+00:21:33,160 --> 00:21:35,000
+they charge
+
+610
+00:21:35,000 --> 00:21:35,480
+a 2%
+
+611
+00:21:35,480 --> 00:21:36,160
+management fee
+
+612
+00:21:36,160 --> 00:21:38,300
+based on the
+
+613
+00:21:38,300 --> 00:21:38,680
+AUM
+
+614
+00:21:38,680 --> 00:21:39,100
+at the beginning
+
+615
+00:21:39,100 --> 00:21:39,560
+of the year
+
+616
+00:21:39,560 --> 00:21:42,040
+so the
+
+617
+00:21:42,040 --> 00:21:42,440
+onshore
+
+618
+00:21:42,440 --> 00:21:43,120
+management company
+
+619
+00:21:43,120 --> 00:21:43,860
+takes 2 million
+
+620
+00:21:43,860 --> 00:21:44,620
+dollars of fees
+
+621
+00:21:44,620 --> 00:21:48,660
+and 4 million
+
+622
+00:21:48,660 --> 00:21:49,120
+performance
+
+623
+00:21:49,120 --> 00:21:50,180
+in that situation
+
+624
+00:21:50,180 --> 00:21:52,980
+but 2 million
+
+625
+00:21:52,980 --> 00:21:53,760
+of that 4 million
+
+626
+00:21:53,760 --> 00:21:55,000
+is reinvested
+
+627
+00:21:55,000 --> 00:22:03,240
+so what happens
+
+628
+00:22:03,240 --> 00:22:06,600
+it's pretty obvious
+
+629
+00:22:06,600 --> 00:22:08,220
+they don't get paid
+
+630
+00:22:08,220 --> 00:22:08,940
+a performance fee
+
+631
+00:22:08,940 --> 00:22:10,220
+if they lose money
+
+632
+00:22:10,220 --> 00:22:11,620
+they get the
+
+633
+00:22:11,620 --> 00:22:12,140
+management fee
+
+634
+00:22:12,140 --> 00:22:13,700
+so first of all
+
+635
+00:22:13,700 --> 00:22:14,840
+what does the
+
+636
+00:22:14,840 --> 00:22:15,340
+management fee
+
+637
+00:22:15,340 --> 00:22:16,000
+actually do
+
+638
+00:22:16,000 --> 00:22:17,060
+what's it for
+
+639
+00:22:17,060 --> 00:22:18,840
+anyone take a guess
+
+640
+00:22:18,840 --> 00:22:23,000
+exactly
+
+641
+00:22:23,000 --> 00:22:26,580
+the onshore
+
+642
+00:22:26,580 --> 00:22:27,300
+management fee
+
+643
+00:22:27,300 --> 00:22:28,080
+goes to pay
+
+644
+00:22:28,080 --> 00:22:28,740
+for all of the
+
+645
+00:22:28,740 --> 00:22:29,240
+infrastructure
+
+646
+00:22:29,240 --> 00:22:29,740
+of the fund
+
+647
+00:22:29,740 --> 00:22:30,680
+including
+
+648
+00:22:30,680 --> 00:22:31,640
+basic salaries
+
+649
+00:22:31,640 --> 00:22:32,100
+of everybody
+
+650
+00:22:32,100 --> 00:22:32,660
+in the office
+
+651
+00:22:32,660 --> 00:22:35,440
+that's the first
+
+652
+00:22:35,440 --> 00:22:35,640
+thing
+
+653
+00:22:35,640 --> 00:22:37,080
+all professional
+
+654
+00:22:37,080 --> 00:22:37,600
+traders have
+
+655
+00:22:37,600 --> 00:22:38,280
+a basic salary
+
+656
+00:22:38,280 --> 00:22:39,620
+and so do
+
+657
+00:22:39,620 --> 00:22:40,220
+hedge fund managers
+
+658
+00:22:40,220 --> 00:22:42,520
+but what about
+
+659
+00:22:42,520 --> 00:22:43,020
+the performance
+
+660
+00:22:43,020 --> 00:22:43,400
+when they have
+
+661
+00:22:43,400 --> 00:22:43,920
+a bad year
+
+662
+00:22:43,920 --> 00:22:45,020
+they don't get
+
+663
+00:22:45,020 --> 00:22:45,320
+paid
+
+664
+00:22:45,320 --> 00:22:46,420
+in a good year
+
+665
+00:22:46,420 --> 00:22:47,140
+what do they do
+
+666
+00:22:47,140 --> 00:22:49,420
+they reinvest
+
+667
+00:22:49,420 --> 00:22:49,760
+their money
+
+668
+00:22:49,760 --> 00:22:50,240
+into the fund
+
+669
+00:22:50,240 --> 00:22:53,880
+so the fund
+
+670
+00:22:53,880 --> 00:22:54,280
+grows
+
+671
+00:22:54,280 --> 00:22:58,340
+so what do
+
+672
+00:22:58,340 --> 00:22:58,960
+retail traders
+
+673
+00:22:58,960 --> 00:22:59,400
+have to do
+
+674
+00:22:59,400 --> 00:22:59,860
+if they're trying
+
+675
+00:22:59,860 --> 00:23:00,320
+to emulate
+
+676
+00:23:00,320 --> 00:23:01,460
+successful hedge fund
+
+677
+00:23:01,460 --> 00:23:01,820
+managers
+
+678
+00:23:01,820 --> 00:23:09,200
+reinvest their money
+
+679
+00:23:09,200 --> 00:23:11,960
+so when they
+
+680
+00:23:11,960 --> 00:23:12,440
+make money
+
+681
+00:23:12,440 --> 00:23:14,360
+they take
+
+682
+00:23:14,360 --> 00:23:14,880
+more risk
+
+683
+00:23:14,880 --> 00:23:17,500
+when they
+
+684
+00:23:17,500 --> 00:23:17,940
+lose money
+
+685
+00:23:17,940 --> 00:23:19,020
+they don't
+
+686
+00:23:19,020 --> 00:23:19,540
+increase their
+
+687
+00:23:19,540 --> 00:23:19,920
+exposure
+
+688
+00:23:19,920 --> 00:23:24,100
+it's pretty
+
+689
+00:23:24,100 --> 00:23:24,400
+obvious
+
+690
+00:23:24,400 --> 00:23:24,580
+no
+
+691
+00:23:24,580 --> 00:23:26,620
+so why do
+
+692
+00:23:26,620 --> 00:23:27,200
+retail traders
+
+693
+00:23:27,200 --> 00:23:27,740
+do the total
+
+694
+00:23:27,740 --> 00:23:28,100
+opposite
+
+695
+00:23:28,100 --> 00:23:37,400
+secure their
+
+696
+00:23:37,400 --> 00:23:37,720
+profits
+
+697
+00:23:37,720 --> 00:23:40,600
+yeah
+
+698
+00:23:40,600 --> 00:23:41,360
+so they're
+
+699
+00:23:41,360 --> 00:23:41,800
+taking their
+
+700
+00:23:41,800 --> 00:23:42,240
+money out
+
+701
+00:23:42,240 --> 00:23:42,480
+of their
+
+702
+00:23:42,480 --> 00:23:42,700
+trading
+
+703
+00:23:42,700 --> 00:23:43,000
+account
+
+704
+00:23:43,000 --> 00:23:43,660
+that's a
+
+705
+00:23:43,660 --> 00:23:43,900
+typical
+
+706
+00:23:43,900 --> 00:23:44,280
+behaviour
+
+707
+00:23:44,280 --> 00:23:44,840
+yeah
+
+708
+00:23:44,840 --> 00:23:46,900
+the holy
+
+709
+00:23:46,900 --> 00:23:47,560
+grail for a
+
+710
+00:23:47,560 --> 00:23:47,860
+hedge fund
+
+711
+00:23:47,860 --> 00:23:48,160
+manager
+
+712
+00:23:48,160 --> 00:23:50,180
+is to grow
+
+713
+00:23:50,180 --> 00:23:50,680
+the fund
+
+714
+00:23:50,680 --> 00:23:52,200
+let's say
+
+715
+00:23:52,200 --> 00:23:52,900
+from 100
+
+716
+00:23:52,900 --> 00:23:53,480
+million in
+
+717
+00:23:53,480 --> 00:23:53,960
+year one
+
+718
+00:23:53,960 --> 00:23:55,400
+to 5
+
+719
+00:23:55,400 --> 00:23:55,780
+billion
+
+720
+00:23:55,780 --> 00:23:56,760
+in year
+
+721
+00:23:56,760 --> 00:23:57,160
+six
+
+722
+00:23:57,160 --> 00:23:59,560
+and a
+
+723
+00:23:59,560 --> 00:23:59,920
+standard
+
+724
+00:23:59,920 --> 00:24:00,460
+industry
+
+725
+00:24:00,460 --> 00:24:00,960
+metric
+
+726
+00:24:00,960 --> 00:24:03,080
+is applied
+
+727
+00:24:03,080 --> 00:24:04,480
+to sell
+
+728
+00:24:04,480 --> 00:24:04,800
+the hedge
+
+729
+00:24:04,800 --> 00:24:05,020
+fund
+
+730
+00:24:05,020 --> 00:24:05,920
+there'll be
+
+731
+00:24:05,920 --> 00:24:06,380
+there'll be
+
+732
+00:24:06,380 --> 00:24:06,800
+a value
+
+733
+00:24:06,800 --> 00:24:07,100
+to the
+
+734
+00:24:07,100 --> 00:24:07,340
+funds
+
+735
+00:24:07,340 --> 00:24:07,620
+because
+
+736
+00:24:07,620 --> 00:24:07,860
+they've
+
+737
+00:24:07,860 --> 00:24:08,120
+got
+
+738
+00:24:08,120 --> 00:24:08,680
+five
+
+739
+00:24:08,680 --> 00:24:08,980
+billion
+
+740
+00:24:08,980 --> 00:24:09,940
+of assets
+
+741
+00:24:09,940 --> 00:24:10,120
+under
+
+742
+00:24:10,120 --> 00:24:10,440
+management
+
+743
+00:24:10,440 --> 00:24:12,000
+does anybody
+
+744
+00:24:12,000 --> 00:24:12,320
+know what
+
+745
+00:24:12,320 --> 00:24:12,640
+it is
+
+746
+00:24:12,640 --> 00:24:14,340
+the standard
+
+747
+00:24:14,340 --> 00:24:14,740
+industry
+
+748
+00:24:14,740 --> 00:24:15,120
+metric
+
+749
+00:24:15,120 --> 00:24:15,880
+for asset
+
+750
+00:24:15,880 --> 00:24:16,200
+managers
+
+751
+00:24:16,200 --> 00:24:16,500
+and hedge
+
+752
+00:24:16,500 --> 00:24:16,700
+funds
+
+753
+00:24:16,700 --> 00:24:23,420
+it's
+
+754
+00:24:23,420 --> 00:24:24,040
+one tenth
+
+755
+00:24:24,040 --> 00:24:24,780
+of assets
+
+756
+00:24:24,780 --> 00:24:25,000
+under
+
+757
+00:24:25,000 --> 00:24:25,300
+management
+
+758
+00:24:25,300 --> 00:24:28,500
+so they'll
+
+759
+00:24:28,500 --> 00:24:28,900
+sell that
+
+760
+00:24:28,900 --> 00:24:29,140
+fund
+
+761
+00:24:29,140 --> 00:24:29,680
+for 500
+
+762
+00:24:29,680 --> 00:24:30,000
+million
+
+763
+00:24:30,000 --> 00:24:33,240
+and they'll
+
+764
+00:24:33,240 --> 00:24:33,520
+have their
+
+765
+00:24:33,520 --> 00:24:33,860
+own money
+
+766
+00:24:33,860 --> 00:24:34,180
+in the
+
+767
+00:24:34,180 --> 00:24:34,380
+fund
+
+768
+00:24:34,380 --> 00:24:34,700
+the whole
+
+769
+00:24:34,700 --> 00:24:35,000
+time
+
+770
+00:24:35,000 --> 00:24:35,400
+and be
+
+771
+00:24:35,400 --> 00:24:35,800
+increasing
+
+772
+00:24:35,800 --> 00:24:36,040
+their
+
+773
+00:24:36,040 --> 00:24:36,360
+holding
+
+774
+00:24:36,360 --> 00:24:36,800
+the whole
+
+775
+00:24:36,800 --> 00:24:37,040
+time
+
+776
+00:24:37,040 --> 00:24:40,440
+so they
+
+777
+00:24:40,440 --> 00:24:40,900
+grow that
+
+778
+00:24:40,900 --> 00:24:41,440
+from 100
+
+779
+00:24:41,440 --> 00:24:42,860
+to 5
+
+780
+00:24:42,860 --> 00:24:43,140
+billion
+
+781
+00:24:43,140 --> 00:24:43,740
+and walk
+
+782
+00:24:43,740 --> 00:24:44,020
+away
+
+783
+00:24:44,020 --> 00:24:44,800
+with 500
+
+784
+00:24:44,800 --> 00:24:45,100
+million
+
+785
+00:24:45,100 --> 00:24:48,180
+that's a
+
+786
+00:24:48,180 --> 00:24:49,100
+successful
+
+787
+00:24:49,100 --> 00:24:49,500
+hedge fund
+
+788
+00:24:49,500 --> 00:24:49,800
+manager
+
+789
+00:24:49,800 --> 00:24:56,240
+so you
+
+790
+00:24:56,240 --> 00:24:56,520
+should really
+
+791
+00:24:56,520 --> 00:24:56,920
+be taking
+
+792
+00:24:56,920 --> 00:24:57,200
+a few
+
+793
+00:24:57,200 --> 00:24:57,520
+messages
+
+794
+00:24:57,520 --> 00:24:58,080
+from this
+
+795
+00:24:58,080 --> 00:24:59,080
+if your
+
+796
+00:24:59,080 --> 00:24:59,420
+objective
+
+797
+00:24:59,420 --> 00:24:59,800
+here is
+
+798
+00:24:59,800 --> 00:25:00,060
+to make
+
+799
+00:25:00,060 --> 00:25:00,340
+money
+
+800
+00:25:00,340 --> 00:25:01,960
+which it
+
+801
+00:25:01,960 --> 00:25:02,160
+is
+
+802
+00:25:02,160 --> 00:25:02,680
+no one
+
+803
+00:25:02,680 --> 00:25:03,020
+goes into
+
+804
+00:25:03,020 --> 00:25:03,420
+the market
+
+805
+00:25:03,420 --> 00:25:03,800
+to lose
+
+806
+00:25:03,800 --> 00:25:04,040
+money
+
+807
+00:25:04,040 --> 00:25:05,400
+we all
+
+808
+00:25:05,400 --> 00:25:05,840
+go in
+
+809
+00:25:05,840 --> 00:25:06,380
+with the
+
+810
+00:25:06,380 --> 00:25:06,720
+idea
+
+811
+00:25:06,720 --> 00:25:07,120
+that we're
+
+812
+00:25:07,120 --> 00:25:07,240
+going to
+
+813
+00:25:07,240 --> 00:25:07,480
+become
+
+814
+00:25:07,480 --> 00:25:08,020
+superstars
+
+815
+00:25:08,020 --> 00:25:08,300
+and make
+
+816
+00:25:08,300 --> 00:25:08,580
+loads of
+
+817
+00:25:08,580 --> 00:25:08,740
+money
+
+818
+00:25:08,740 --> 00:25:09,960
+so the
+
+819
+00:25:09,960 --> 00:25:10,320
+objective
+
+820
+00:25:10,320 --> 00:25:11,100
+here is
+
+821
+00:25:11,100 --> 00:25:11,460
+to make
+
+822
+00:25:11,460 --> 00:25:11,760
+money
+
+823
+00:25:11,760 --> 00:25:12,220
+using
+
+824
+00:25:12,220 --> 00:25:12,540
+our
+
+825
+00:25:12,540 --> 00:25:12,700
+own
+
+826
+00:25:12,700 --> 00:25:12,940
+money
+
+827
+00:25:12,940 --> 00:25:15,640
+so out
+
+828
+00:25:15,640 --> 00:25:15,920
+of this
+
+829
+00:25:15,920 --> 00:25:16,220
+retail
+
+830
+00:25:16,220 --> 00:25:16,560
+traders
+
+831
+00:25:16,560 --> 00:25:16,960
+should take
+
+832
+00:25:16,960 --> 00:25:17,380
+several
+
+833
+00:25:17,380 --> 00:25:17,680
+really
+
+834
+00:25:17,680 --> 00:25:18,020
+important
+
+835
+00:25:18,020 --> 00:25:18,480
+messages
+
+836
+00:25:18,480 --> 00:25:20,500
+hedge fund
+
+837
+00:25:20,500 --> 00:25:20,860
+managers
+
+838
+00:25:20,860 --> 00:25:21,460
+use their
+
+839
+00:25:21,460 --> 00:25:21,600
+own
+
+840
+00:25:21,600 --> 00:25:22,300
+money
+
+841
+00:25:22,300 --> 00:25:25,120
+unaccept
+
+842
+00:25:25,120 --> 00:25:25,620
+outside
+
+843
+00:25:25,620 --> 00:25:26,020
+investor
+
+844
+00:25:26,020 --> 00:25:26,260
+money
+
+845
+00:25:26,260 --> 00:25:26,920
+investment
+
+846
+00:25:26,920 --> 00:25:27,240
+bank
+
+847
+00:25:27,240 --> 00:25:27,580
+traders
+
+848
+00:25:27,580 --> 00:25:27,980
+don't
+
+849
+00:25:27,980 --> 00:25:30,780
+so what
+
+850
+00:25:30,780 --> 00:25:31,020
+does that
+
+851
+00:25:31,020 --> 00:25:31,220
+mean
+
+852
+00:25:31,220 --> 00:25:32,280
+for a
+
+853
+00:25:32,280 --> 00:25:32,500
+retail
+
+854
+00:25:32,500 --> 00:25:32,880
+trader
+
+855
+00:25:32,880 --> 00:25:34,040
+your
+
+856
+00:25:34,040 --> 00:25:34,400
+objective
+
+857
+00:25:34,400 --> 00:25:35,020
+is a
+
+858
+00:25:35,020 --> 00:25:35,280
+hell of
+
+859
+00:25:35,280 --> 00:25:35,500
+a lot
+
+860
+00:25:35,500 --> 00:25:35,740
+more
+
+861
+00:25:35,740 --> 00:25:36,160
+aligned
+
+862
+00:25:36,160 --> 00:25:36,760
+with
+
+863
+00:25:36,760 --> 00:25:37,000
+that
+
+864
+00:25:37,000 --> 00:25:37,240
+of a
+
+865
+00:25:37,240 --> 00:25:37,540
+hedge fund
+
+866
+00:25:37,540 --> 00:25:37,820
+manager
+
+867
+00:25:37,820 --> 00:25:42,720
+the
+
+868
+00:25:42,720 --> 00:25:42,960
+prop
+
+869
+00:25:42,960 --> 00:25:43,360
+function
+
+870
+00:25:43,360 --> 00:25:43,700
+and
+
+871
+00:25:43,700 --> 00:25:44,060
+hedge fund
+
+872
+00:25:44,060 --> 00:25:44,400
+managers
+
+873
+00:25:44,400 --> 00:25:45,320
+they both
+
+874
+00:25:45,320 --> 00:25:46,360
+hold
+
+875
+00:25:46,360 --> 00:25:47,380
+long
+
+876
+00:25:47,380 --> 00:25:47,760
+short
+
+877
+00:25:47,760 --> 00:25:48,880
+diverse
+
+878
+00:25:48,880 --> 00:25:49,600
+portfolios
+
+879
+00:25:49,600 --> 00:25:50,880
+with a
+
+880
+00:25:50,880 --> 00:25:51,220
+fairly
+
+881
+00:25:51,220 --> 00:25:51,940
+medium
+
+882
+00:25:51,940 --> 00:25:52,240
+term
+
+883
+00:25:52,240 --> 00:25:52,400
+to
+
+884
+00:25:52,400 --> 00:25:52,660
+long
+
+885
+00:25:52,660 --> 00:25:52,920
+term
+
+886
+00:25:52,920 --> 00:25:53,460
+time
+
+887
+00:25:53,460 --> 00:25:53,860
+horizon
+
+888
+00:25:53,860 --> 00:25:54,960
+obviously
+
+889
+00:25:54,960 --> 00:25:55,340
+depending
+
+890
+00:25:55,340 --> 00:25:55,840
+on what
+
+891
+00:25:55,840 --> 00:25:56,860
+company
+
+892
+00:25:56,860 --> 00:25:57,200
+you work
+
+893
+00:25:57,200 --> 00:25:57,380
+for
+
+894
+00:25:57,380 --> 00:25:57,660
+and what
+
+895
+00:25:57,660 --> 00:25:57,800
+the
+
+896
+00:25:57,800 --> 00:25:58,180
+investment
+
+897
+00:25:58,180 --> 00:25:58,600
+mandate
+
+898
+00:25:58,600 --> 00:25:59,080
+is
+
+899
+00:25:59,080 --> 00:26:03,720
+they both
+
+900
+00:26:03,720 --> 00:26:04,080
+get paid
+
+901
+00:26:04,080 --> 00:26:04,460
+a basic
+
+902
+00:26:04,460 --> 00:26:04,860
+salary
+
+903
+00:26:04,860 --> 00:26:11,880
+that's really
+
+904
+00:26:11,880 --> 00:26:12,340
+important
+
+905
+00:26:12,340 --> 00:26:13,980
+so many
+
+906
+00:26:13,980 --> 00:26:14,820
+retail traders
+
+907
+00:26:14,820 --> 00:26:15,880
+think
+
+908
+00:26:15,880 --> 00:26:17,460
+trading is for
+
+909
+00:26:17,460 --> 00:26:17,780
+income
+
+910
+00:26:17,780 --> 00:26:20,220
+it isn't
+
+911
+00:26:20,220 --> 00:26:24,080
+people must
+
+912
+00:26:24,080 --> 00:26:24,420
+have seen it
+
+913
+00:26:24,420 --> 00:26:24,800
+before where
+
+914
+00:26:24,800 --> 00:26:25,200
+you get the
+
+915
+00:26:25,200 --> 00:26:25,400
+message
+
+916
+00:26:25,400 --> 00:26:25,800
+you get the
+
+917
+00:26:25,800 --> 00:26:26,240
+emails
+
+918
+00:26:26,240 --> 00:26:28,220
+you can make
+
+919
+00:26:28,220 --> 00:26:29,360
+$10,000 a month
+
+920
+00:26:29,360 --> 00:26:29,860
+trading the
+
+921
+00:26:29,860 --> 00:26:30,660
+international forex
+
+922
+00:26:30,660 --> 00:26:31,060
+markets
+
+923
+00:26:31,060 --> 00:26:34,100
+so people do it
+
+924
+00:26:34,100 --> 00:26:34,920
+they open a
+
+925
+00:26:34,920 --> 00:26:35,480
+trading account
+
+926
+00:26:35,480 --> 00:26:36,640
+100 grand
+
+927
+00:26:36,640 --> 00:26:38,220
+in month
+
+928
+00:26:38,220 --> 00:26:38,240
+in month
+
+929
+00:26:38,240 --> 00:26:38,500
+in month one
+
+930
+00:26:38,500 --> 00:26:38,960
+they make
+
+931
+00:26:38,960 --> 00:26:39,460
+10 grand
+
+932
+00:26:39,460 --> 00:26:40,560
+they take
+
+933
+00:26:40,560 --> 00:26:40,840
+out the
+
+934
+00:26:40,840 --> 00:26:41,240
+10 grand
+
+935
+00:26:41,240 --> 00:26:43,200
+they spend
+
+936
+00:26:43,200 --> 00:26:43,420
+it
+
+937
+00:26:43,420 --> 00:26:46,580
+in month
+
+938
+00:26:46,580 --> 00:26:46,860
+two
+
+939
+00:26:46,860 --> 00:26:47,500
+they lose
+
+940
+00:26:47,500 --> 00:26:47,960
+10 grand
+
+941
+00:26:47,960 --> 00:26:49,380
+then they
+
+942
+00:26:49,380 --> 00:26:50,020
+take 10 grand
+
+943
+00:26:50,020 --> 00:26:50,240
+out
+
+944
+00:26:50,240 --> 00:26:50,860
+and they're
+
+945
+00:26:50,860 --> 00:26:51,140
+left with
+
+946
+00:26:51,140 --> 00:26:51,420
+80
+
+947
+00:26:51,420 --> 00:26:52,360
+and they
+
+948
+00:26:52,360 --> 00:26:52,580
+spend
+
+949
+00:26:52,580 --> 00:26:53,040
+10 grand
+
+950
+00:26:53,040 --> 00:26:55,380
+so what
+
+951
+00:26:55,380 --> 00:26:55,540
+are they
+
+952
+00:26:55,540 --> 00:26:55,780
+doing
+
+953
+00:26:55,780 --> 00:26:57,440
+when they
+
+954
+00:26:57,440 --> 00:26:57,940
+make money
+
+955
+00:26:57,940 --> 00:26:59,800
+they're taking
+
+956
+00:26:59,800 --> 00:27:00,300
+money out of
+
+957
+00:27:00,300 --> 00:27:00,660
+their trading
+
+958
+00:27:00,660 --> 00:27:00,980
+account
+
+959
+00:27:00,980 --> 00:27:02,200
+when they
+
+960
+00:27:02,200 --> 00:27:02,660
+lose money
+
+961
+00:27:02,660 --> 00:27:03,620
+they're taking
+
+962
+00:27:03,620 --> 00:27:04,720
+more risk
+
+963
+00:27:04,720 --> 00:27:06,940
+they're doing
+
+964
+00:27:06,940 --> 00:27:07,400
+the total
+
+965
+00:27:07,400 --> 00:27:08,000
+opposite to
+
+966
+00:27:08,000 --> 00:27:08,480
+what professional
+
+967
+00:27:08,480 --> 00:27:08,980
+traders do
+
+968
+00:27:08,980 --> 00:27:12,960
+you should
+
+969
+00:27:12,960 --> 00:27:13,620
+never ever
+
+970
+00:27:13,620 --> 00:27:14,500
+ever as a
+
+971
+00:27:14,500 --> 00:27:15,040
+retail trader
+
+972
+00:27:15,040 --> 00:27:15,440
+take an
+
+973
+00:27:15,440 --> 00:27:15,740
+income
+
+974
+00:27:15,740 --> 00:27:16,260
+from your
+
+975
+00:27:16,260 --> 00:27:16,500
+trading
+
+976
+00:27:16,500 --> 00:27:16,780
+account
+
+977
+00:27:16,780 --> 00:27:18,600
+it's not
+
+978
+00:27:18,600 --> 00:27:19,140
+an income
+
+979
+00:27:19,140 --> 00:27:19,600
+strategy
+
+980
+00:27:19,600 --> 00:27:21,480
+if you want
+
+981
+00:27:21,480 --> 00:27:21,840
+an income
+
+982
+00:27:21,840 --> 00:27:22,320
+strategy
+
+983
+00:27:22,320 --> 00:27:23,460
+buy a bunch
+
+984
+00:27:23,460 --> 00:27:23,860
+of stocks
+
+985
+00:27:23,860 --> 00:27:24,220
+and hold
+
+986
+00:27:24,220 --> 00:27:24,600
+them for a
+
+987
+00:27:24,600 --> 00:27:24,920
+decade
+
+988
+00:27:24,920 --> 00:27:25,500
+that pay
+
+989
+00:27:25,500 --> 00:27:26,040
+a 4%
+
+990
+00:27:26,040 --> 00:27:26,280
+dividend
+
+991
+00:27:26,280 --> 00:27:26,580
+yield
+
+992
+00:27:26,580 --> 00:27:31,380
+go and buy
+
+993
+00:27:31,380 --> 00:27:31,780
+a flat
+
+994
+00:27:31,780 --> 00:27:32,360
+and rent
+
+995
+00:27:32,360 --> 00:27:32,580
+it out
+
+996
+00:27:32,580 --> 00:27:32,960
+to somebody
+
+997
+00:27:32,960 --> 00:27:34,880
+that'll pay
+
+998
+00:27:34,880 --> 00:27:35,280
+you an income
+
+999
+00:27:35,280 --> 00:27:36,100
+go and buy
+
+1000
+00:27:36,100 --> 00:27:36,400
+a government
+
+1001
+00:27:36,400 --> 00:27:36,760
+bond
+
+1002
+00:27:36,760 --> 00:27:37,300
+that'll pay
+
+1003
+00:27:37,300 --> 00:27:37,720
+you a coupon
+
+1004
+00:27:37,720 --> 00:27:40,240
+trading is
+
+1005
+00:27:40,240 --> 00:27:40,880
+not for
+
+1006
+00:27:40,880 --> 00:27:41,180
+income
+
+1007
+00:27:41,180 --> 00:27:43,440
+every professional
+
+1008
+00:27:43,440 --> 00:27:43,980
+trader knows
+
+1009
+00:27:43,980 --> 00:27:44,200
+that
+
+1010
+00:27:44,200 --> 00:27:44,760
+that's why
+
+1011
+00:27:44,760 --> 00:27:45,140
+they charge
+
+1012
+00:27:45,140 --> 00:27:45,480
+a management
+
+1013
+00:27:45,480 --> 00:27:45,760
+fee
+
+1014
+00:27:45,760 --> 00:27:46,560
+so they
+
+1015
+00:27:46,560 --> 00:27:46,820
+can get
+
+1016
+00:27:46,820 --> 00:27:47,120
+paid a
+
+1017
+00:27:47,120 --> 00:27:47,340
+basic
+
+1018
+00:27:47,340 --> 00:27:47,680
+salary
+
+1019
+00:27:47,680 --> 00:27:52,740
+and the
+
+1020
+00:27:52,740 --> 00:27:53,020
+industry
+
+1021
+00:27:53,020 --> 00:27:53,400
+is very
+
+1022
+00:27:53,400 --> 00:27:54,000
+very competitive
+
+1023
+00:27:54,000 --> 00:27:56,700
+it's so
+
+1024
+00:27:56,700 --> 00:27:57,180
+competitive
+
+1025
+00:27:57,180 --> 00:27:58,760
+in the
+
+1026
+00:27:58,760 --> 00:27:59,080
+hedge fund
+
+1027
+00:27:59,080 --> 00:27:59,460
+industry
+
+1028
+00:27:59,460 --> 00:28:00,580
+people going
+
+1029
+00:28:00,580 --> 00:28:01,460
+and pitching
+
+1030
+00:28:01,460 --> 00:28:02,080
+high net worth
+
+1031
+00:28:02,080 --> 00:28:02,640
+in institutions
+
+1032
+00:28:02,640 --> 00:28:03,540
+for a limited
+
+1033
+00:28:03,540 --> 00:28:03,940
+amount of
+
+1034
+00:28:03,940 --> 00:28:04,280
+capital
+
+1035
+00:28:04,280 --> 00:28:06,960
+it's so
+
+1036
+00:28:06,960 --> 00:28:07,400
+competitive
+
+1037
+00:28:07,400 --> 00:28:08,260
+that all of
+
+1038
+00:28:08,260 --> 00:28:08,880
+them still
+
+1039
+00:28:08,880 --> 00:28:10,000
+ask for a
+
+1040
+00:28:10,000 --> 00:28:10,460
+management fee
+
+1041
+00:28:10,460 --> 00:28:13,960
+so why do we
+
+1042
+00:28:13,960 --> 00:28:14,380
+think they do
+
+1043
+00:28:14,380 --> 00:28:15,300
+that because
+
+1044
+00:28:15,300 --> 00:28:16,020
+they know that
+
+1045
+00:28:16,020 --> 00:28:16,640
+trading is not
+
+1046
+00:28:16,640 --> 00:28:17,060
+for income
+
+1047
+00:28:17,060 --> 00:28:18,720
+their objective
+
+1048
+00:28:18,720 --> 00:28:19,300
+is to grow
+
+1049
+00:28:19,300 --> 00:28:19,880
+their account
+
+1050
+00:28:19,880 --> 00:28:22,060
+to as big
+
+1051
+00:28:22,060 --> 00:28:22,560
+as possible
+
+1052
+00:28:22,560 --> 00:28:23,040
+so they can
+
+1053
+00:28:23,040 --> 00:28:23,540
+sell the fund
+
+1054
+00:28:23,540 --> 00:28:26,760
+so they
+
+1055
+00:28:26,760 --> 00:28:27,260
+don't want to
+
+1056
+00:28:27,260 --> 00:28:28,000
+take any
+
+1057
+00:28:28,000 --> 00:28:28,680
+money out
+
+1058
+00:28:28,680 --> 00:28:29,080
+of the
+
+1059
+00:28:29,080 --> 00:28:29,300
+fund
+
+1060
+00:28:29,300 --> 00:28:30,460
+they want
+
+1061
+00:28:30,460 --> 00:28:30,980
+to reinvest
+
+1062
+00:28:30,980 --> 00:28:31,960
+it as much
+
+1063
+00:28:31,960 --> 00:28:32,460
+as they can
+
+1064
+00:28:32,460 --> 00:28:33,360
+because they
+
+1065
+00:28:33,360 --> 00:28:34,040
+want an exit
+
+1066
+00:28:34,040 --> 00:28:34,920
+for as big
+
+1067
+00:28:34,920 --> 00:28:35,400
+as possible
+
+1068
+00:28:35,400 --> 00:28:35,940
+as quickly
+
+1069
+00:28:35,940 --> 00:28:36,420
+as possible
+
+1070
+00:28:36,420 --> 00:28:40,300
+does that
+
+1071
+00:28:40,300 --> 00:28:40,720
+make sense
+
+1072
+00:28:40,720 --> 00:28:45,640
+so hedge fund
+
+1073
+00:28:45,640 --> 00:28:46,080
+managers are
+
+1074
+00:28:46,080 --> 00:28:46,560
+literally doing
+
+1075
+00:28:46,560 --> 00:28:46,960
+the total
+
+1076
+00:28:46,960 --> 00:28:47,280
+opposite
+
+1077
+00:28:47,280 --> 00:28:48,840
+to what most
+
+1078
+00:28:48,840 --> 00:28:49,420
+retail traders
+
+1079
+00:28:49,420 --> 00:28:49,620
+do
+
+1080
+00:28:49,620 --> 00:28:51,020
+when they
+
+1081
+00:28:51,020 --> 00:28:51,500
+make money
+
+1082
+00:28:51,500 --> 00:28:52,480
+reinvest
+
+1083
+00:28:52,480 --> 00:28:54,220
+lose money
+
+1084
+00:28:54,220 --> 00:28:55,060
+don't increase
+
+1085
+00:28:55,060 --> 00:28:55,500
+your risk
+
+1086
+00:28:55,500 --> 00:29:01,380
+so let's go
+
+1087
+00:29:01,380 --> 00:29:01,960
+through some
+
+1088
+00:29:01,960 --> 00:29:02,280
+of the main
+
+1089
+00:29:02,280 --> 00:29:02,640
+differences
+
+1090
+00:29:02,640 --> 00:29:03,280
+we have touched
+
+1091
+00:29:03,280 --> 00:29:03,800
+on some of them
+
+1092
+00:29:03,800 --> 00:29:04,100
+already
+
+1093
+00:29:04,100 --> 00:29:06,020
+differences between
+
+1094
+00:29:06,020 --> 00:29:07,140
+professional traders
+
+1095
+00:29:07,140 --> 00:29:07,940
+and retail traders
+
+1096
+00:29:07,940 --> 00:29:13,640
+so if you're
+
+1097
+00:29:13,640 --> 00:29:14,080
+going to compare
+
+1098
+00:29:14,080 --> 00:29:14,520
+yourself
+
+1099
+00:29:14,520 --> 00:29:15,320
+or try to
+
+1100
+00:29:15,320 --> 00:29:15,640
+emulate
+
+1101
+00:29:15,640 --> 00:29:16,720
+the best
+
+1102
+00:29:16,720 --> 00:29:17,760
+and most
+
+1103
+00:29:17,760 --> 00:29:18,280
+successful
+
+1104
+00:29:18,280 --> 00:29:19,740
+professional traders
+
+1105
+00:29:19,740 --> 00:29:21,680
+you've got to
+
+1106
+00:29:21,680 --> 00:29:22,200
+emulate their
+
+1107
+00:29:22,200 --> 00:29:22,660
+strategies
+
+1108
+00:29:22,660 --> 00:29:24,800
+and from a very
+
+1109
+00:29:24,800 --> 00:29:25,520
+basic level
+
+1110
+00:29:25,520 --> 00:29:26,360
+we've been through
+
+1111
+00:29:26,360 --> 00:29:26,840
+some of them
+
+1112
+00:29:26,840 --> 00:29:29,200
+you've got to
+
+1113
+00:29:29,200 --> 00:29:29,600
+have a basic
+
+1114
+00:29:29,600 --> 00:29:30,120
+salary doing
+
+1115
+00:29:30,120 --> 00:29:30,660
+something else
+
+1116
+00:29:30,660 --> 00:29:31,580
+to begin with
+
+1117
+00:29:31,580 --> 00:29:33,860
+otherwise you're
+
+1118
+00:29:33,860 --> 00:29:34,220
+just not going
+
+1119
+00:29:34,220 --> 00:29:34,580
+to grow your
+
+1120
+00:29:34,580 --> 00:29:34,840
+account
+
+1121
+00:29:34,840 --> 00:29:36,200
+because you'll
+
+1122
+00:29:36,200 --> 00:29:36,980
+be forced
+
+1123
+00:29:36,980 --> 00:29:37,540
+to take an
+
+1124
+00:29:37,540 --> 00:29:37,920
+income from
+
+1125
+00:29:37,940 --> 00:29:38,320
+your trading
+
+1126
+00:29:38,320 --> 00:29:38,620
+account
+
+1127
+00:29:38,620 --> 00:29:39,900
+and it'll
+
+1128
+00:29:39,900 --> 00:29:40,400
+be terminal
+
+1129
+00:29:40,400 --> 00:29:41,860
+you'll just
+
+1130
+00:29:41,860 --> 00:29:42,400
+go to zero
+
+1131
+00:29:42,400 --> 00:29:44,280
+either very
+
+1132
+00:29:44,280 --> 00:29:44,640
+quickly
+
+1133
+00:29:44,640 --> 00:29:45,520
+or slowly
+
+1134
+00:29:45,520 --> 00:29:47,440
+but you will
+
+1135
+00:29:47,440 --> 00:29:47,900
+be at zero
+
+1136
+00:29:47,900 --> 00:29:48,400
+at some point
+
+1137
+00:29:48,400 --> 00:29:48,720
+if you do
+
+1138
+00:29:48,720 --> 00:29:48,920
+that
+
+1139
+00:29:48,920 --> 00:29:53,100
+and the
+
+1140
+00:29:53,100 --> 00:29:53,480
+principle
+
+1141
+00:29:53,480 --> 00:29:54,120
+of taking
+
+1142
+00:29:54,120 --> 00:29:54,780
+more risk
+
+1143
+00:29:54,780 --> 00:29:55,340
+when you
+
+1144
+00:29:55,340 --> 00:29:55,760
+make money
+
+1145
+00:29:55,760 --> 00:29:56,720
+and taking
+
+1146
+00:29:56,720 --> 00:29:57,340
+less risk
+
+1147
+00:29:57,340 --> 00:29:58,140
+when you
+
+1148
+00:29:58,140 --> 00:29:58,520
+lose money
+
+1149
+00:29:58,520 --> 00:30:02,340
+from the
+
+1150
+00:30:02,340 --> 00:30:02,780
+ground up
+
+1151
+00:30:02,780 --> 00:30:03,260
+that's pretty
+
+1152
+00:30:03,260 --> 00:30:03,940
+basic stuff
+
+1153
+00:30:03,940 --> 00:30:05,460
+but millions
+
+1154
+00:30:05,460 --> 00:30:05,940
+of people get
+
+1155
+00:30:05,940 --> 00:30:06,240
+it wrong
+
+1156
+00:30:06,240 --> 00:30:06,760
+every year
+
+1157
+00:30:06,760 --> 00:30:09,820
+and it's
+
+1158
+00:30:09,820 --> 00:30:10,480
+repeat and
+
+1159
+00:30:10,480 --> 00:30:10,760
+rinse
+
+1160
+00:30:10,760 --> 00:30:12,580
+every year
+
+1161
+00:30:12,580 --> 00:30:13,360
+same approach
+
+1162
+00:30:13,360 --> 00:30:14,540
+go to zero
+
+1163
+00:30:14,540 --> 00:30:15,460
+start again
+
+1164
+00:30:15,460 --> 00:30:17,300
+put ten grand
+
+1165
+00:30:17,300 --> 00:30:17,740
+in your trading
+
+1166
+00:30:17,740 --> 00:30:18,080
+account
+
+1167
+00:30:18,080 --> 00:30:19,120
+lose it
+
+1168
+00:30:19,120 --> 00:30:20,180
+go to zero
+
+1169
+00:30:20,180 --> 00:30:22,500
+six months
+
+1170
+00:30:22,500 --> 00:30:22,880
+later
+
+1171
+00:30:22,880 --> 00:30:24,760
+start again
+
+1172
+00:30:24,760 --> 00:30:25,400
+with another
+
+1173
+00:30:25,400 --> 00:30:25,880
+ten grand
+
+1174
+00:30:25,880 --> 00:30:26,780
+do it again
+
+1175
+00:30:26,780 --> 00:30:28,620
+no one ever
+
+1176
+00:30:28,620 --> 00:30:28,920
+learns
+
+1177
+00:30:28,920 --> 00:30:33,140
+but the
+
+1178
+00:30:33,140 --> 00:30:33,600
+problem is
+
+1179
+00:30:33,600 --> 00:30:34,040
+is due to
+
+1180
+00:30:34,040 --> 00:30:34,340
+all the
+
+1181
+00:30:34,340 --> 00:30:34,900
+misinformation
+
+1182
+00:30:34,900 --> 00:30:36,320
+and conflict
+
+1183
+00:30:36,320 --> 00:30:36,760
+of interest
+
+1184
+00:30:36,760 --> 00:30:37,440
+that exists
+
+1185
+00:30:37,440 --> 00:30:37,820
+in the
+
+1186
+00:30:37,820 --> 00:30:38,120
+industry
+
+1187
+00:30:38,120 --> 00:30:40,740
+this is why
+
+1188
+00:30:40,740 --> 00:30:41,300
+people behave
+
+1189
+00:30:41,300 --> 00:30:41,700
+like that
+
+1190
+00:30:41,700 --> 00:30:45,780
+so we've
+
+1191
+00:30:45,780 --> 00:30:46,100
+touched on
+
+1192
+00:30:46,100 --> 00:30:46,300
+one of them
+
+1193
+00:30:46,300 --> 00:30:46,600
+already
+
+1194
+00:30:46,600 --> 00:30:48,540
+which is
+
+1195
+00:30:48,540 --> 00:30:49,160
+pretty obvious
+
+1196
+00:30:49,160 --> 00:30:52,020
+what a
+
+1197
+00:30:52,020 --> 00:30:52,320
+professional
+
+1198
+00:30:52,320 --> 00:30:52,880
+trader actually
+
+1199
+00:30:52,880 --> 00:30:53,140
+does
+
+1200
+00:30:53,140 --> 00:30:57,100
+you'll get
+
+1201
+00:30:57,100 --> 00:30:57,780
+tons of
+
+1202
+00:30:57,780 --> 00:30:58,120
+people in
+
+1203
+00:30:58,120 --> 00:30:58,460
+the industry
+
+1204
+00:30:58,460 --> 00:30:58,800
+who have
+
+1205
+00:30:58,800 --> 00:30:59,320
+got the
+
+1206
+00:30:59,320 --> 00:30:59,780
+conflict of
+
+1207
+00:30:59,780 --> 00:31:00,160
+interest
+
+1208
+00:31:00,160 --> 00:31:01,700
+showing you
+
+1209
+00:31:01,700 --> 00:31:03,020
+or trying to
+
+1210
+00:31:03,020 --> 00:31:03,620
+convince you
+
+1211
+00:31:03,620 --> 00:31:04,640
+that professional
+
+1212
+00:31:04,640 --> 00:31:05,360
+traders approach
+
+1213
+00:31:05,360 --> 00:31:05,920
+the markets
+
+1214
+00:31:05,920 --> 00:31:06,760
+in a particular
+
+1215
+00:31:06,760 --> 00:31:07,100
+way
+
+1216
+00:31:07,100 --> 00:31:08,540
+when they
+
+1217
+00:31:08,540 --> 00:31:09,160
+actually don't
+
+1218
+00:31:09,160 --> 00:31:09,820
+and that
+
+1219
+00:31:09,820 --> 00:31:10,320
+person who's
+
+1220
+00:31:10,320 --> 00:31:10,640
+telling you
+
+1221
+00:31:10,640 --> 00:31:10,960
+that has
+
+1222
+00:31:10,960 --> 00:31:11,280
+never been
+
+1223
+00:31:11,280 --> 00:31:11,660
+a professional
+
+1224
+00:31:11,660 --> 00:31:11,960
+trader
+
+1225
+00:31:11,960 --> 00:31:13,640
+so how
+
+1226
+00:31:13,640 --> 00:31:13,840
+would they
+
+1227
+00:31:13,840 --> 00:31:14,060
+know
+
+1228
+00:31:14,060 --> 00:31:17,380
+there's a
+
+1229
+00:31:17,380 --> 00:31:17,620
+lot of
+
+1230
+00:31:17,620 --> 00:31:18,020
+misinformation
+
+1231
+00:31:18,020 --> 00:31:18,540
+and the
+
+1232
+00:31:18,540 --> 00:31:18,880
+misinformation
+
+1233
+00:31:18,880 --> 00:31:19,520
+is due
+
+1234
+00:31:19,520 --> 00:31:20,360
+to a
+
+1235
+00:31:20,360 --> 00:31:20,660
+conflict
+
+1236
+00:31:20,660 --> 00:31:20,800
+of
+
+1237
+00:31:20,800 --> 00:31:21,140
+interest
+
+1238
+00:31:21,140 --> 00:31:25,960
+so what
+
+1239
+00:31:25,960 --> 00:31:27,520
+is the
+
+1240
+00:31:27,520 --> 00:31:27,980
+difference
+
+1241
+00:31:27,980 --> 00:31:28,420
+what are
+
+1242
+00:31:28,420 --> 00:31:28,860
+the approach
+
+1243
+00:31:28,860 --> 00:31:29,280
+differences
+
+1244
+00:31:29,280 --> 00:31:33,740
+so hedge fund
+
+1245
+00:31:33,740 --> 00:31:34,040
+manager
+
+1246
+00:31:34,040 --> 00:31:34,860
+investment bank
+
+1247
+00:31:34,860 --> 00:31:35,280
+professional
+
+1248
+00:31:35,280 --> 00:31:35,640
+trader
+
+1249
+00:31:35,640 --> 00:31:36,860
+with a
+
+1250
+00:31:36,860 --> 00:31:37,160
+positive
+
+1251
+00:31:37,160 --> 00:31:37,600
+selection
+
+1252
+00:31:37,600 --> 00:31:38,120
+portfolio
+
+1253
+00:31:38,120 --> 00:31:40,020
+long short
+
+1254
+00:31:40,020 --> 00:31:40,420
+portfolio
+
+1255
+00:31:40,420 --> 00:31:40,840
+one to
+
+1256
+00:31:40,840 --> 00:31:41,380
+three months
+
+1257
+00:31:41,380 --> 00:31:43,260
+retail
+
+1258
+00:31:43,260 --> 00:31:43,640
+trader
+
+1259
+00:31:43,640 --> 00:31:44,800
+the approach
+
+1260
+00:31:44,800 --> 00:31:45,380
+is typically
+
+1261
+00:31:45,380 --> 00:31:46,780
+directional
+
+1262
+00:31:46,780 --> 00:31:47,600
+day trading
+
+1263
+00:31:47,600 --> 00:31:51,120
+around
+
+1264
+00:31:51,120 --> 00:31:51,560
+binary
+
+1265
+00:31:51,560 --> 00:31:52,240
+situations
+
+1266
+00:31:52,240 --> 00:31:54,500
+what's the
+
+1267
+00:31:54,500 --> 00:31:54,760
+approach
+
+1268
+00:31:54,760 --> 00:31:55,340
+to risk
+
+1269
+00:31:55,340 --> 00:31:57,800
+diversity
+
+1270
+00:31:57,800 --> 00:31:58,240
+and risk
+
+1271
+00:31:58,240 --> 00:31:58,600
+management
+
+1272
+00:31:58,600 --> 00:32:01,120
+the job
+
+1273
+00:32:01,120 --> 00:32:01,280
+of the
+
+1274
+00:32:01,280 --> 00:32:01,600
+hedge fund
+
+1275
+00:32:01,600 --> 00:32:01,900
+manager
+
+1276
+00:32:01,900 --> 00:32:02,280
+and even
+
+1277
+00:32:02,280 --> 00:32:02,620
+the guy
+
+1278
+00:32:02,620 --> 00:32:03,140
+at the
+
+1279
+00:32:03,140 --> 00:32:04,720
+investment
+
+1280
+00:32:04,720 --> 00:32:05,140
+bank
+
+1281
+00:32:05,140 --> 00:32:05,660
+in the
+
+1282
+00:32:05,660 --> 00:32:06,080
+prop trading
+
+1283
+00:32:06,080 --> 00:32:06,460
+function
+
+1284
+00:32:06,460 --> 00:32:08,580
+their job
+
+1285
+00:32:08,580 --> 00:32:09,040
+first and
+
+1286
+00:32:09,040 --> 00:32:09,320
+foremost
+
+1287
+00:32:09,320 --> 00:32:09,680
+is to
+
+1288
+00:32:09,680 --> 00:32:09,980
+protect
+
+1289
+00:32:09,980 --> 00:32:10,400
+that money
+
+1290
+00:32:10,400 --> 00:32:11,940
+and then
+
+1291
+00:32:11,940 --> 00:32:12,400
+seek to
+
+1292
+00:32:12,400 --> 00:32:12,780
+grow it
+
+1293
+00:32:12,780 --> 00:32:14,860
+so by
+
+1294
+00:32:14,860 --> 00:32:15,160
+first
+
+1295
+00:32:15,160 --> 00:32:15,580
+protecting
+
+1296
+00:32:15,580 --> 00:32:15,860
+it
+
+1297
+00:32:15,860 --> 00:32:16,660
+what's
+
+1298
+00:32:16,660 --> 00:32:17,080
+required
+
+1299
+00:32:17,080 --> 00:32:18,260
+real
+
+1300
+00:32:18,260 --> 00:32:18,800
+diversity
+
+1301
+00:32:18,800 --> 00:32:19,760
+and
+
+1302
+00:32:19,760 --> 00:32:20,300
+proper
+
+1303
+00:32:20,300 --> 00:32:20,680
+risk
+
+1304
+00:32:20,680 --> 00:32:21,020
+management
+
+1305
+00:32:21,020 --> 00:32:25,120
+all you'll
+
+1306
+00:32:25,120 --> 00:32:25,380
+hear
+
+1307
+00:32:25,380 --> 00:32:26,160
+talked about
+
+1308
+00:32:26,160 --> 00:32:26,760
+on a
+
+1309
+00:32:26,760 --> 00:32:26,980
+desk
+
+1310
+00:32:26,980 --> 00:32:27,180
+at an
+
+1311
+00:32:27,180 --> 00:32:27,380
+investment
+
+1312
+00:32:27,380 --> 00:32:27,720
+bank
+
+1313
+00:32:27,720 --> 00:32:28,220
+or a
+
+1314
+00:32:28,220 --> 00:32:28,620
+hedge fund
+
+1315
+00:32:28,620 --> 00:32:30,300
+is the
+
+1316
+00:32:30,300 --> 00:32:30,600
+risk
+
+1317
+00:32:30,600 --> 00:32:31,960
+what's the
+
+1318
+00:32:31,960 --> 00:32:32,360
+risk here
+
+1319
+00:32:32,360 --> 00:32:33,060
+are you on
+
+1320
+00:32:33,060 --> 00:32:33,340
+top of
+
+1321
+00:32:33,340 --> 00:32:33,800
+your risk
+
+1322
+00:32:33,800 --> 00:32:35,940
+what can
+
+1323
+00:32:35,940 --> 00:32:36,240
+we make
+
+1324
+00:32:36,240 --> 00:32:36,600
+or lose
+
+1325
+00:32:36,600 --> 00:32:36,880
+in one
+
+1326
+00:32:36,880 --> 00:32:37,120
+day
+
+1327
+00:32:37,120 --> 00:32:42,380
+with the
+
+1328
+00:32:42,380 --> 00:32:42,660
+retail
+
+1329
+00:32:42,660 --> 00:32:43,020
+trader
+
+1330
+00:32:43,020 --> 00:32:43,800
+risk is
+
+1331
+00:32:43,800 --> 00:32:44,360
+extremely
+
+1332
+00:32:44,360 --> 00:32:45,100
+concentrated
+
+1333
+00:32:45,100 --> 00:32:47,560
+so
+
+1334
+00:32:47,560 --> 00:32:48,260
+concentrated
+
+1335
+00:32:48,260 --> 00:32:49,340
+when a
+
+1336
+00:32:49,340 --> 00:32:49,680
+professional
+
+1337
+00:32:49,680 --> 00:32:50,260
+trader looks
+
+1338
+00:32:50,260 --> 00:32:50,520
+at a
+
+1339
+00:32:50,520 --> 00:32:50,780
+retail
+
+1340
+00:32:50,780 --> 00:32:51,180
+trader's
+
+1341
+00:32:51,180 --> 00:32:51,420
+trading
+
+1342
+00:32:51,420 --> 00:32:51,700
+book
+
+1343
+00:32:51,700 --> 00:32:52,920
+they can't
+
+1344
+00:32:52,920 --> 00:32:53,360
+understand
+
+1345
+00:32:53,360 --> 00:32:54,340
+why somebody
+
+1346
+00:32:54,340 --> 00:32:54,860
+would only
+
+1347
+00:32:54,860 --> 00:32:55,380
+have two
+
+1348
+00:32:55,380 --> 00:32:55,680
+or three
+
+1349
+00:32:55,680 --> 00:32:55,980
+or four
+
+1350
+00:32:55,980 --> 00:32:56,380
+positions
+
+1351
+00:32:56,380 --> 00:32:58,720
+it's lunacy
+
+1352
+00:32:58,720 --> 00:33:00,380
+they look at
+
+1353
+00:33:00,380 --> 00:33:00,620
+it and they
+
+1354
+00:33:00,620 --> 00:33:00,980
+just can't
+
+1355
+00:33:00,980 --> 00:33:01,540
+understand why
+
+1356
+00:33:01,540 --> 00:33:05,880
+so someone
+
+1357
+00:33:05,880 --> 00:33:06,240
+might be
+
+1358
+00:33:06,240 --> 00:33:06,740
+long the
+
+1359
+00:33:06,740 --> 00:33:07,500
+S&P 500
+
+1360
+00:33:07,500 --> 00:33:09,000
+might have
+
+1361
+00:33:09,000 --> 00:33:09,300
+a long
+
+1362
+00:33:09,300 --> 00:33:09,640
+euro
+
+1363
+00:33:09,640 --> 00:33:10,220
+US dollar
+
+1364
+00:33:10,220 --> 00:33:10,640
+position
+
+1365
+00:33:10,640 --> 00:33:12,120
+and short
+
+1366
+00:33:12,120 --> 00:33:13,780
+a dollar
+
+1367
+00:33:13,780 --> 00:33:14,380
+yen position
+
+1368
+00:33:14,380 --> 00:33:16,940
+but also
+
+1369
+00:33:16,940 --> 00:33:17,180
+you've got
+
+1370
+00:33:17,180 --> 00:33:17,860
+no diversity
+
+1371
+00:33:17,860 --> 00:33:20,920
+you're just
+
+1372
+00:33:20,920 --> 00:33:21,160
+going to be
+
+1373
+00:33:21,160 --> 00:33:21,800
+up or down
+
+1374
+00:33:21,800 --> 00:33:22,220
+on the day
+
+1375
+00:33:22,220 --> 00:33:23,440
+and your book
+
+1376
+00:33:23,440 --> 00:33:23,940
+is out of
+
+1377
+00:33:23,940 --> 00:33:24,240
+control
+
+1378
+00:33:24,240 --> 00:33:24,980
+you can't
+
+1379
+00:33:24,980 --> 00:33:25,260
+control
+
+1380
+00:33:25,260 --> 00:33:25,580
+what's going
+
+1381
+00:33:25,580 --> 00:33:25,840
+to happen
+
+1382
+00:33:25,840 --> 00:33:27,120
+so professional
+
+1383
+00:33:27,120 --> 00:33:27,760
+traders will
+
+1384
+00:33:27,760 --> 00:33:28,160
+just never
+
+1385
+00:33:28,160 --> 00:33:28,500
+ever do
+
+1386
+00:33:28,500 --> 00:33:28,720
+that
+
+1387
+00:33:28,720 --> 00:33:32,120
+what's the
+
+1388
+00:33:32,120 --> 00:33:32,800
+approach to
+
+1389
+00:33:32,800 --> 00:33:33,320
+return
+
+1390
+00:33:33,320 --> 00:33:35,380
+professional
+
+1391
+00:33:35,380 --> 00:33:35,920
+traders are
+
+1392
+00:33:35,920 --> 00:33:36,620
+seeking long
+
+1393
+00:33:36,620 --> 00:33:37,200
+term consistent
+
+1394
+00:33:37,200 --> 00:33:37,680
+returns
+
+1395
+00:33:37,680 --> 00:33:38,960
+we know that
+
+1396
+00:33:38,960 --> 00:33:39,360
+because the
+
+1397
+00:33:39,360 --> 00:33:40,060
+objective is of
+
+1398
+00:33:40,060 --> 00:33:40,520
+the hedge fund
+
+1399
+00:33:40,520 --> 00:33:41,020
+managers to
+
+1400
+00:33:41,020 --> 00:33:41,620
+get AUM
+
+1401
+00:33:41,620 --> 00:33:42,600
+assets under
+
+1402
+00:33:42,600 --> 00:33:42,900
+management
+
+1403
+00:33:42,900 --> 00:33:44,200
+no one's going
+
+1404
+00:33:44,200 --> 00:33:44,680
+to invest in
+
+1405
+00:33:44,680 --> 00:33:45,140
+the hedge fund
+
+1406
+00:33:45,140 --> 00:33:45,500
+or that
+
+1407
+00:33:45,500 --> 00:33:45,780
+trader
+
+1408
+00:33:45,780 --> 00:33:47,120
+if they're up
+
+1409
+00:33:47,120 --> 00:33:47,860
+10% one
+
+1410
+00:33:47,860 --> 00:33:48,140
+month
+
+1411
+00:33:48,140 --> 00:33:48,920
+down 10%
+
+1412
+00:33:48,920 --> 00:33:49,240
+the next
+
+1413
+00:33:49,240 --> 00:33:49,500
+month
+
+1414
+00:33:49,500 --> 00:33:50,440
+and they
+
+1415
+00:33:50,440 --> 00:33:50,720
+just never
+
+1416
+00:33:50,720 --> 00:33:51,160
+make money
+
+1417
+00:33:51,160 --> 00:33:54,760
+you want
+
+1418
+00:33:54,760 --> 00:33:55,360
+consistent
+
+1419
+00:33:55,360 --> 00:33:55,940
+returns
+
+1420
+00:33:55,940 --> 00:33:58,060
+smoothed
+
+1421
+00:33:58,060 --> 00:33:58,700
+over time
+
+1422
+00:33:58,700 --> 00:34:00,440
+which show
+
+1423
+00:34:00,440 --> 00:34:01,360
+a strong
+
+1424
+00:34:01,360 --> 00:34:02,040
+track record
+
+1425
+00:34:02,040 --> 00:34:05,100
+and
+
+1426
+00:34:05,100 --> 00:34:06,100
+behaviour
+
+1427
+00:34:06,100 --> 00:34:09,040
+in good
+
+1428
+00:34:09,040 --> 00:34:09,480
+times and
+
+1429
+00:34:09,480 --> 00:34:10,040
+bad times
+
+1430
+00:34:10,040 --> 00:34:10,680
+in the
+
+1431
+00:34:10,680 --> 00:34:11,040
+portfolio
+
+1432
+00:34:11,040 --> 00:34:13,340
+where people
+
+1433
+00:34:13,340 --> 00:34:13,940
+recognise you
+
+1434
+00:34:13,940 --> 00:34:14,400
+do the right
+
+1435
+00:34:14,400 --> 00:34:15,100
+thing in
+
+1436
+00:34:15,100 --> 00:34:15,580
+good and
+
+1437
+00:34:15,580 --> 00:34:16,120
+bad times
+
+1438
+00:34:16,120 --> 00:34:18,540
+so you
+
+1439
+00:34:18,540 --> 00:34:19,000
+show good
+
+1440
+00:34:19,000 --> 00:34:19,660
+behaviour in
+
+1441
+00:34:19,660 --> 00:34:20,020
+your track
+
+1442
+00:34:20,020 --> 00:34:20,320
+record
+
+1443
+00:34:20,320 --> 00:34:21,500
+so when
+
+1444
+00:34:21,500 --> 00:34:21,800
+you make
+
+1445
+00:34:21,800 --> 00:34:22,080
+money
+
+1446
+00:34:22,080 --> 00:34:23,420
+you know
+
+1447
+00:34:23,420 --> 00:34:23,840
+you're making
+
+1448
+00:34:23,840 --> 00:34:24,420
+money and
+
+1449
+00:34:24,420 --> 00:34:24,820
+you increase
+
+1450
+00:34:24,820 --> 00:34:25,280
+your risk
+
+1451
+00:34:25,280 --> 00:34:28,400
+and when
+
+1452
+00:34:28,400 --> 00:34:28,700
+you lose
+
+1453
+00:34:28,700 --> 00:34:29,060
+money you
+
+1454
+00:34:29,060 --> 00:34:29,340
+do the
+
+1455
+00:34:29,340 --> 00:34:29,860
+right things
+
+1456
+00:34:29,860 --> 00:34:30,500
+to reduce
+
+1457
+00:34:30,500 --> 00:34:30,840
+risk
+
+1458
+00:34:30,840 --> 00:34:32,680
+and if you
+
+1459
+00:34:32,680 --> 00:34:33,180
+show that
+
+1460
+00:34:33,180 --> 00:34:33,740
+over a
+
+1461
+00:34:33,740 --> 00:34:34,080
+number of
+
+1462
+00:34:34,080 --> 00:34:34,780
+years with
+
+1463
+00:34:34,780 --> 00:34:35,580
+smooth returns
+
+1464
+00:34:35,580 --> 00:34:37,400
+you're going to
+
+1465
+00:34:37,400 --> 00:34:37,760
+have a much
+
+1466
+00:34:37,760 --> 00:34:38,320
+easier job
+
+1467
+00:34:38,320 --> 00:34:39,000
+pitching somebody
+
+1468
+00:34:39,000 --> 00:34:39,420
+for 100
+
+1469
+00:34:39,420 --> 00:34:40,240
+million to
+
+1470
+00:34:40,240 --> 00:34:40,660
+invest in
+
+1471
+00:34:40,660 --> 00:34:41,120
+your hedge fund
+
+1472
+00:34:41,120 --> 00:34:42,680
+than if you're
+
+1473
+00:34:42,680 --> 00:34:43,280
+just all over
+
+1474
+00:34:43,280 --> 00:34:43,620
+the place
+
+1475
+00:34:43,620 --> 00:34:47,600
+retail trader
+
+1476
+00:34:47,600 --> 00:34:49,180
+polar opposite
+
+1477
+00:34:49,180 --> 00:34:50,320
+a good month
+
+1478
+00:34:50,320 --> 00:34:51,080
+up massively
+
+1479
+00:34:51,080 --> 00:34:52,020
+a bad month
+
+1480
+00:34:52,020 --> 00:34:52,540
+loses all
+
+1481
+00:34:52,540 --> 00:34:52,880
+their money
+
+1482
+00:34:52,880 --> 00:34:55,640
+or half the
+
+1483
+00:34:55,640 --> 00:34:55,860
+money
+
+1484
+00:34:55,860 --> 00:34:58,560
+what's the
+
+1485
+00:34:58,560 --> 00:34:58,940
+outcome
+
+1486
+00:34:58,940 --> 00:35:01,820
+for the
+
+1487
+00:35:01,820 --> 00:35:02,180
+professional
+
+1488
+00:35:02,180 --> 00:35:02,540
+trader
+
+1489
+00:35:02,540 --> 00:35:03,120
+it's all
+
+1490
+00:35:03,120 --> 00:35:03,680
+about capital
+
+1491
+00:35:03,680 --> 00:35:04,120
+preservation
+
+1492
+00:35:04,120 --> 00:35:04,820
+and growth
+
+1493
+00:35:04,820 --> 00:35:06,700
+sell the
+
+1494
+00:35:06,700 --> 00:35:06,980
+fund
+
+1495
+00:35:06,980 --> 00:35:07,720
+or get
+
+1496
+00:35:07,720 --> 00:35:08,220
+higher fees
+
+1497
+00:35:08,220 --> 00:35:08,520
+or bigger
+
+1498
+00:35:08,520 --> 00:35:08,880
+bonuses
+
+1499
+00:35:08,880 --> 00:35:12,860
+2% on
+
+1500
+00:35:12,860 --> 00:35:13,420
+5 billion
+
+1501
+00:35:13,420 --> 00:35:13,900
+is a lot
+
+1502
+00:35:13,900 --> 00:35:14,180
+of money
+
+1503
+00:35:14,180 --> 00:35:20,040
+what's the
+
+1504
+00:35:20,040 --> 00:35:20,520
+outcome for a
+
+1505
+00:35:20,520 --> 00:35:21,060
+retail trader
+
+1506
+00:35:21,060 --> 00:35:21,700
+just capital
+
+1507
+00:35:21,700 --> 00:35:22,980
+destruction
+
+1508
+00:35:22,980 --> 00:35:23,880
+assets go to
+
+1509
+00:35:23,880 --> 00:35:24,160
+zero
+
+1510
+00:35:24,160 --> 00:35:24,980
+try again
+
+1511
+00:35:24,980 --> 00:35:25,440
+next year
+
+1512
+00:35:25,440 --> 00:35:31,880
+professional
+
+1513
+00:35:31,880 --> 00:35:32,260
+trader
+
+1514
+00:35:32,260 --> 00:35:34,000
+what's the
+
+1515
+00:35:34,000 --> 00:35:34,420
+approach to
+
+1516
+00:35:34,420 --> 00:35:34,740
+income
+
+1517
+00:35:34,740 --> 00:35:36,880
+ensure your
+
+1518
+00:35:36,880 --> 00:35:37,520
+minimum standard
+
+1519
+00:35:37,520 --> 00:35:37,960
+of living
+
+1520
+00:35:37,960 --> 00:35:39,360
+by making
+
+1521
+00:35:39,360 --> 00:35:40,680
+sure you have
+
+1522
+00:35:40,680 --> 00:35:41,060
+a basic
+
+1523
+00:35:41,060 --> 00:35:41,420
+salary
+
+1524
+00:35:41,420 --> 00:35:45,820
+retail trader
+
+1525
+00:35:45,820 --> 00:35:47,160
+working full
+
+1526
+00:35:47,160 --> 00:35:47,700
+or part time
+
+1527
+00:35:47,700 --> 00:35:48,520
+in a normal
+
+1528
+00:35:48,520 --> 00:35:48,980
+day job
+
+1529
+00:35:48,980 --> 00:35:50,860
+but they
+
+1530
+00:35:50,860 --> 00:35:51,320
+trade for
+
+1531
+00:35:51,320 --> 00:35:52,140
+extra income
+
+1532
+00:35:52,140 --> 00:35:55,300
+which means
+
+1533
+00:35:55,300 --> 00:35:55,720
+if you open
+
+1534
+00:35:55,720 --> 00:35:56,200
+your account
+
+1535
+00:35:56,200 --> 00:35:57,080
+with $100,000
+
+1536
+00:35:57,080 --> 00:36:00,560
+even if you're
+
+1537
+00:36:00,560 --> 00:36:00,820
+good
+
+1538
+00:36:00,820 --> 00:36:02,100
+in 10 years
+
+1539
+00:36:02,100 --> 00:36:02,380
+time
+
+1540
+00:36:02,380 --> 00:36:02,920
+you'll still
+
+1541
+00:36:02,920 --> 00:36:03,680
+have $100,000
+
+1542
+00:36:03,680 --> 00:36:06,320
+because you're
+
+1543
+00:36:06,320 --> 00:36:06,960
+taking a salary
+
+1544
+00:36:06,960 --> 00:36:14,240
+in terms of growth
+
+1545
+00:36:14,240 --> 00:36:15,660
+professional traders
+
+1546
+00:36:15,660 --> 00:36:16,200
+will add
+
+1547
+00:36:16,200 --> 00:36:17,300
+when winning
+
+1548
+00:36:17,300 --> 00:36:19,060
+and reduce
+
+1549
+00:36:19,060 --> 00:36:20,180
+risk when
+
+1550
+00:36:20,180 --> 00:36:20,480
+losing
+
+1551
+00:36:20,480 --> 00:36:24,780
+what happens
+
+1552
+00:36:24,780 --> 00:36:25,260
+to the retail
+
+1553
+00:36:25,260 --> 00:36:25,600
+trader
+
+1554
+00:36:25,600 --> 00:36:26,460
+take income
+
+1555
+00:36:26,460 --> 00:36:26,920
+when winning
+
+1556
+00:36:26,920 --> 00:36:28,120
+and seek risk
+
+1557
+00:36:28,120 --> 00:36:28,720
+when losing
+
+1558
+00:36:28,720 --> 00:36:30,840
+so taking
+
+1559
+00:36:30,840 --> 00:36:31,380
+more risk
+
+1560
+00:36:31,380 --> 00:36:32,700
+what's the
+
+1561
+00:36:32,700 --> 00:36:33,100
+result
+
+1562
+00:36:33,100 --> 00:36:35,260
+hedge fund
+
+1563
+00:36:35,260 --> 00:36:35,760
+managers will
+
+1564
+00:36:35,760 --> 00:36:36,200
+grow their
+
+1565
+00:36:36,200 --> 00:36:36,680
+assets under
+
+1566
+00:36:36,680 --> 00:36:37,060
+management
+
+1567
+00:36:37,060 --> 00:36:38,760
+retail trader
+
+1568
+00:36:38,760 --> 00:36:39,300
+trading account
+
+1569
+00:36:39,300 --> 00:36:39,940
+goes to zero
+
+1570
+00:36:39,940 --> 00:36:41,160
+outcome
+
+1571
+00:36:41,160 --> 00:36:42,160
+the same as
+
+1572
+00:36:42,160 --> 00:36:42,420
+before
+
+1573
+00:36:42,420 --> 00:36:45,520
+so here's the
+
+1574
+00:36:45,520 --> 00:36:45,860
+differences
+
+1575
+00:36:45,860 --> 00:36:47,360
+on one page
+
+1576
+00:36:47,360 --> 00:36:49,360
+expectations
+
+1577
+00:36:49,360 --> 00:36:50,100
+management
+
+1578
+00:36:50,100 --> 00:36:52,640
+all professional
+
+1579
+00:36:52,640 --> 00:36:53,280
+traders aim
+
+1580
+00:36:53,280 --> 00:36:53,760
+to get rich
+
+1581
+00:36:53,760 --> 00:36:54,100
+slowly
+
+1582
+00:36:54,100 --> 00:36:57,120
+compound returns
+
+1583
+00:36:57,120 --> 00:36:58,640
+all professional
+
+1584
+00:36:58,640 --> 00:36:59,100
+traders
+
+1585
+00:36:59,100 --> 00:37:00,220
+seek
+
+1586
+00:37:00,220 --> 00:37:01,180
+consistent
+
+1587
+00:37:01,180 --> 00:37:03,220
+smoothed
+
+1588
+00:37:03,220 --> 00:37:04,220
+risk adjusted
+
+1589
+00:37:04,220 --> 00:37:04,760
+returns
+
+1590
+00:37:04,760 --> 00:37:05,780
+compounded
+
+1591
+00:37:05,780 --> 00:37:10,240
+so let's do
+
+1592
+00:37:10,240 --> 00:37:11,000
+a bit of
+
+1593
+00:37:11,000 --> 00:37:11,700
+compound math
+
+1594
+00:37:11,700 --> 00:37:13,460
+if you open
+
+1595
+00:37:13,460 --> 00:37:13,820
+a trading
+
+1596
+00:37:13,820 --> 00:37:14,180
+account
+
+1597
+00:37:14,180 --> 00:37:15,260
+with 10,000
+
+1598
+00:37:15,260 --> 00:37:15,580
+pounds
+
+1599
+00:37:15,580 --> 00:37:17,120
+in year
+
+1600
+00:37:17,120 --> 00:37:17,380
+one
+
+1601
+00:37:17,380 --> 00:37:21,140
+and you
+
+1602
+00:37:21,140 --> 00:37:21,600
+use that
+
+1603
+00:37:21,600 --> 00:37:22,120
+10,000
+
+1604
+00:37:22,120 --> 00:37:22,380
+pounds
+
+1605
+00:37:22,380 --> 00:37:22,960
+to enable
+
+1606
+00:37:22,960 --> 00:37:23,360
+you to
+
+1607
+00:37:23,360 --> 00:37:23,700
+take
+
+1608
+00:37:23,700 --> 00:37:25,580
+40,000
+
+1609
+00:37:25,580 --> 00:37:25,860
+pounds
+
+1610
+00:37:25,860 --> 00:37:26,220
+worth of
+
+1611
+00:37:26,220 --> 00:37:26,660
+exposure
+
+1612
+00:37:26,660 --> 00:37:31,240
+if you
+
+1613
+00:37:31,240 --> 00:37:31,440
+get a
+
+1614
+00:37:31,440 --> 00:37:32,120
+25%
+
+1615
+00:37:32,120 --> 00:37:32,580
+return
+
+1616
+00:37:32,580 --> 00:37:33,500
+each year
+
+1617
+00:37:33,500 --> 00:37:34,560
+so call
+
+1618
+00:37:34,560 --> 00:37:35,540
+it 2%
+
+1619
+00:37:35,540 --> 00:37:35,920
+a month
+
+1620
+00:37:35,920 --> 00:37:37,120
+on average
+
+1621
+00:37:37,120 --> 00:37:38,400
+smoothed
+
+1622
+00:37:38,400 --> 00:37:38,980
+over time
+
+1623
+00:37:38,980 --> 00:37:40,220
+there will
+
+1624
+00:37:40,220 --> 00:37:40,560
+be months
+
+1625
+00:37:40,560 --> 00:37:40,840
+where you
+
+1626
+00:37:40,840 --> 00:37:41,100
+lose
+
+1627
+00:37:41,100 --> 00:37:41,960
+but if you
+
+1628
+00:37:41,960 --> 00:37:42,220
+make an
+
+1629
+00:37:42,220 --> 00:37:42,580
+average of
+
+1630
+00:37:42,580 --> 00:37:43,000
+2%
+
+1631
+00:37:43,000 --> 00:37:43,340
+a month
+
+1632
+00:37:43,340 --> 00:37:44,760
+in what
+
+1633
+00:37:44,760 --> 00:37:45,220
+year does
+
+1634
+00:37:45,220 --> 00:37:45,620
+your account
+
+1635
+00:37:45,620 --> 00:37:46,000
+become a
+
+1636
+00:37:46,000 --> 00:37:46,200
+million
+
+1637
+00:37:46,200 --> 00:37:51,600
+anyone know
+
+1638
+00:37:51,600 --> 00:37:53,140
+has anyone
+
+1639
+00:37:53,140 --> 00:37:53,620
+ever done it
+
+1640
+00:37:53,620 --> 00:37:54,080
+in a spreadsheet
+
+1641
+00:37:54,080 --> 00:37:55,220
+worked it
+
+1642
+00:37:55,220 --> 00:37:55,420
+out
+
+1643
+00:37:55,420 --> 00:37:57,360
+the 8th
+
+1644
+00:37:57,360 --> 00:37:57,720
+wonder of
+
+1645
+00:37:57,720 --> 00:37:57,980
+the world
+
+1646
+00:37:57,980 --> 00:37:59,060
+compounding
+
+1647
+00:37:59,060 --> 00:38:02,040
+Einstein did
+
+1648
+00:38:02,040 --> 00:38:02,640
+actually call it
+
+1649
+00:38:02,640 --> 00:38:03,100
+the 8th wonder
+
+1650
+00:38:03,100 --> 00:38:03,480
+of the world
+
+1651
+00:38:03,480 --> 00:38:08,360
+it's about
+
+1652
+00:38:08,360 --> 00:38:09,380
+2 thirds of
+
+1653
+00:38:09,380 --> 00:38:09,660
+the way
+
+1654
+00:38:09,660 --> 00:38:10,080
+through year
+
+1655
+00:38:10,080 --> 00:38:10,400
+7
+
+1656
+00:38:10,400 --> 00:38:17,920
+so you
+
+1657
+00:38:17,920 --> 00:38:18,120
+can grow
+
+1658
+00:38:18,120 --> 00:38:18,720
+10,000
+
+1659
+00:38:18,720 --> 00:38:19,060
+pounds
+
+1660
+00:38:19,060 --> 00:38:19,920
+at 2%
+
+1661
+00:38:19,920 --> 00:38:20,320
+a month
+
+1662
+00:38:20,320 --> 00:38:21,040
+on average
+
+1663
+00:38:21,040 --> 00:38:22,320
+to over
+
+1664
+00:38:22,320 --> 00:38:22,680
+a million
+
+1665
+00:38:22,680 --> 00:38:23,440
+by the
+
+1666
+00:38:23,440 --> 00:38:23,700
+end of
+
+1667
+00:38:23,700 --> 00:38:24,100
+year 7
+
+1668
+00:38:24,100 --> 00:38:27,480
+if you
+
+1669
+00:38:27,480 --> 00:38:27,780
+just keep
+
+1670
+00:38:27,780 --> 00:38:28,300
+reinvesting
+
+1671
+00:38:28,300 --> 00:38:28,560
+and never
+
+1672
+00:38:28,560 --> 00:38:28,940
+taking an
+
+1673
+00:38:28,940 --> 00:38:29,140
+income
+
+1674
+00:38:29,140 --> 00:38:30,780
+but one
+
+1675
+00:38:30,780 --> 00:38:31,080
+thing is
+
+1676
+00:38:31,080 --> 00:38:31,440
+guaranteed
+
+1677
+00:38:31,440 --> 00:38:32,040
+if you
+
+1678
+00:38:32,040 --> 00:38:32,360
+take an
+
+1679
+00:38:32,360 --> 00:38:32,540
+income
+
+1680
+00:38:32,540 --> 00:38:33,140
+of 2,000
+
+1681
+00:38:33,140 --> 00:38:33,340
+pounds
+
+1682
+00:38:33,340 --> 00:38:33,680
+a month
+
+1683
+00:38:33,680 --> 00:38:34,180
+you'll
+
+1684
+00:38:34,180 --> 00:38:34,520
+still be
+
+1685
+00:38:34,520 --> 00:38:34,640
+at
+
+1686
+00:38:34,640 --> 00:38:34,820
+10
+
+1687
+00:38:34,820 --> 00:38:37,940
+or you'll
+
+1688
+00:38:37,940 --> 00:38:38,140
+be at
+
+1689
+00:38:38,140 --> 00:38:38,400
+zero
+
+1690
+00:38:38,400 --> 00:38:40,380
+so you've
+
+1691
+00:38:40,380 --> 00:38:40,640
+got two
+
+1692
+00:38:40,640 --> 00:38:41,020
+choices
+
+1693
+00:38:41,020 --> 00:38:41,540
+you either
+
+1694
+00:38:41,540 --> 00:38:41,740
+do it
+
+1695
+00:38:41,740 --> 00:38:42,140
+that way
+
+1696
+00:38:42,140 --> 00:38:43,120
+the
+
+1697
+00:38:43,120 --> 00:38:43,500
+professional
+
+1698
+00:38:43,500 --> 00:38:43,900
+trade away
+
+1699
+00:38:43,900 --> 00:38:44,280
+the real
+
+1700
+00:38:44,280 --> 00:38:44,500
+way
+
+1701
+00:38:44,500 --> 00:38:46,160
+or you
+
+1702
+00:38:46,160 --> 00:38:46,460
+do it
+
+1703
+00:38:46,460 --> 00:38:46,860
+the retail
+
+1704
+00:38:46,860 --> 00:38:47,300
+trade away
+
+1705
+00:38:47,300 --> 00:38:48,320
+and just
+
+1706
+00:38:48,320 --> 00:38:49,100
+never ever
+
+1707
+00:38:49,100 --> 00:38:49,780
+ever become
+
+1708
+00:38:49,780 --> 00:38:50,180
+wealthier
+
+1709
+00:38:50,180 --> 00:38:55,700
+I don't
+
+1710
+00:38:55,700 --> 00:38:55,880
+think we
+
+1711
+00:38:55,880 --> 00:38:56,180
+need to go
+
+1712
+00:38:56,180 --> 00:38:56,480
+over this
+
+1713
+00:38:56,480 --> 00:38:56,800
+well again
+
+1714
+00:38:56,800 --> 00:38:57,340
+no income
+
+1715
+00:38:57,340 --> 00:38:57,880
+from trading
+
+1716
+00:38:57,880 --> 00:38:59,200
+retail
+
+1717
+00:38:59,200 --> 00:38:59,640
+traders
+
+1718
+00:38:59,640 --> 00:39:01,860
+want to
+
+1719
+00:39:01,860 --> 00:39:02,400
+take income
+
+1720
+00:39:02,400 --> 00:39:03,300
+professional
+
+1721
+00:39:03,300 --> 00:39:03,640
+traders
+
+1722
+00:39:03,640 --> 00:39:04,000
+don't
+
+1723
+00:39:04,000 --> 00:39:05,200
+they ensure
+
+1724
+00:39:05,200 --> 00:39:05,620
+their basic
+
+1725
+00:39:05,620 --> 00:39:06,000
+salaries
+
+1726
+00:39:06,000 --> 00:39:08,140
+so they
+
+1727
+00:39:08,140 --> 00:39:08,700
+make sure
+
+1728
+00:39:08,700 --> 00:39:10,640
+they get
+
+1729
+00:39:10,640 --> 00:39:11,540
+their minimum
+
+1730
+00:39:11,540 --> 00:39:12,540
+living standards
+
+1731
+00:39:12,540 --> 00:39:16,900
+from making
+
+1732
+00:39:16,900 --> 00:39:17,260
+a basic
+
+1733
+00:39:17,260 --> 00:39:17,600
+salary
+
+1734
+00:39:17,600 --> 00:39:19,900
+so to
+
+1735
+00:39:19,900 --> 00:39:20,280
+recap
+
+1736
+00:39:20,280 --> 00:39:21,140
+and we
+
+1737
+00:39:21,140 --> 00:39:21,540
+know what
+
+1738
+00:39:21,540 --> 00:39:21,860
+the
+
+1739
+00:39:21,860 --> 00:39:22,500
+differences
+
+1740
+00:39:22,500 --> 00:39:22,880
+are
+
+1741
+00:39:22,880 --> 00:39:25,080
+the majority
+
+1742
+00:39:25,080 --> 00:39:25,560
+of retail
+
+1743
+00:39:25,560 --> 00:39:25,960
+traders
+
+1744
+00:39:25,960 --> 00:39:26,480
+just lose
+
+1745
+00:39:26,480 --> 00:39:26,700
+money
+
+1746
+00:39:26,700 --> 00:39:27,220
+because they
+
+1747
+00:39:27,220 --> 00:39:27,760
+do the
+
+1748
+00:39:27,760 --> 00:39:28,140
+opposite
+
+1749
+00:39:28,140 --> 00:39:28,680
+of what
+
+1750
+00:39:28,680 --> 00:39:28,900
+all
+
+1751
+00:39:28,900 --> 00:39:29,420
+successful
+
+1752
+00:39:29,420 --> 00:39:29,980
+professional
+
+1753
+00:39:29,980 --> 00:39:30,260
+traders
+
+1754
+00:39:30,260 --> 00:39:30,460
+do
+
+1755
+00:39:30,460 --> 00:39:31,700
+in all
+
+1756
+00:39:31,700 --> 00:39:33,080
+ways
+
+1757
+00:39:33,080 --> 00:39:35,940
+approach
+
+1758
+00:39:35,940 --> 00:39:36,620
+risk
+
+1759
+00:39:36,620 --> 00:39:37,680
+income
+
+1760
+00:39:37,680 --> 00:39:38,640
+everything
+
+1761
+00:39:38,640 --> 00:39:39,260
+everything's
+
+1762
+00:39:39,260 --> 00:39:39,640
+the opposite
+
+1763
+00:39:39,640 --> 00:39:43,700
+okay so
+
+1764
+00:39:43,700 --> 00:39:45,420
+welcome back
+
+1765
+00:39:45,420 --> 00:39:47,380
+that was
+
+1766
+00:39:47,380 --> 00:39:48,120
+professional
+
+1767
+00:39:48,120 --> 00:39:48,660
+traders and
+
+1768
+00:39:48,660 --> 00:39:49,340
+retail traders
+
+1769
+00:39:49,340 --> 00:39:51,500
+and I guess
+
+1770
+00:39:51,500 --> 00:39:52,360
+what have we
+
+1771
+00:39:52,360 --> 00:39:52,840
+learnt here
+
+1772
+00:39:52,840 --> 00:39:54,560
+well I think
+
+1773
+00:39:54,560 --> 00:39:55,080
+what we've
+
+1774
+00:39:55,080 --> 00:39:55,640
+learnt here
+
+1775
+00:39:55,640 --> 00:39:57,120
+in terms of
+
+1776
+00:39:57,120 --> 00:39:57,860
+what professional
+
+1777
+00:39:57,860 --> 00:39:58,660
+traders actually
+
+1778
+00:39:58,660 --> 00:39:58,920
+are
+
+1779
+00:39:58,920 --> 00:40:00,540
+is that there
+
+1780
+00:40:00,540 --> 00:40:02,040
+is a very
+
+1781
+00:40:02,040 --> 00:40:02,620
+big
+
+1782
+00:40:02,620 --> 00:40:04,520
+misguided
+
+1783
+00:40:04,520 --> 00:40:05,520
+perception
+
+1784
+00:40:05,520 --> 00:40:07,600
+or misinterpretation
+
+1785
+00:40:07,600 --> 00:40:08,480
+of what professional
+
+1786
+00:40:08,480 --> 00:40:10,020
+traders are
+
+1787
+00:40:10,020 --> 00:40:10,680
+and what they
+
+1788
+00:40:10,680 --> 00:40:11,320
+actually do
+
+1789
+00:40:11,320 --> 00:40:14,500
+I think in the
+
+1790
+00:40:14,500 --> 00:40:15,080
+retail trading
+
+1791
+00:40:15,080 --> 00:40:15,540
+community
+
+1792
+00:40:15,540 --> 00:40:17,180
+we need to
+
+1793
+00:40:17,180 --> 00:40:18,060
+clarify quite a
+
+1794
+00:40:18,060 --> 00:40:18,700
+few things
+
+1795
+00:40:18,700 --> 00:40:20,760
+in terms of
+
+1796
+00:40:20,760 --> 00:40:21,820
+the professional
+
+1797
+00:40:21,820 --> 00:40:22,760
+traders objectives
+
+1798
+00:40:22,760 --> 00:40:24,320
+because essentially
+
+1799
+00:40:24,320 --> 00:40:25,260
+as retail traders
+
+1800
+00:40:25,260 --> 00:40:26,120
+you're trading
+
+1801
+00:40:26,120 --> 00:40:26,660
+with your own
+
+1802
+00:40:26,660 --> 00:40:28,500
+money and you're
+
+1803
+00:40:28,500 --> 00:40:29,200
+trying to emulate
+
+1804
+00:40:29,200 --> 00:40:30,980
+the successful
+
+1805
+00:40:30,980 --> 00:40:32,360
+professional traders
+
+1806
+00:40:32,360 --> 00:40:34,480
+and trying to
+
+1807
+00:40:34,480 --> 00:40:34,900
+make money
+
+1808
+00:40:34,900 --> 00:40:35,540
+with your own
+
+1809
+00:40:35,540 --> 00:40:35,780
+money
+
+1810
+00:40:35,780 --> 00:40:38,000
+well it seems
+
+1811
+00:40:38,000 --> 00:40:38,500
+that we can
+
+1812
+00:40:38,500 --> 00:40:38,980
+forget about
+
+1813
+00:40:38,980 --> 00:40:39,360
+guys at
+
+1814
+00:40:39,360 --> 00:40:40,020
+investment banks
+
+1815
+00:40:40,020 --> 00:40:41,980
+the only thing
+
+1816
+00:40:41,980 --> 00:40:42,560
+to take away
+
+1817
+00:40:42,560 --> 00:40:43,200
+from guys at
+
+1818
+00:40:43,200 --> 00:40:43,840
+investment banks
+
+1819
+00:40:43,840 --> 00:40:45,440
+is that they
+
+1820
+00:40:45,440 --> 00:40:46,020
+have a basic
+
+1821
+00:40:46,020 --> 00:40:46,400
+salary
+
+1822
+00:40:46,400 --> 00:40:47,260
+the rest of
+
+1823
+00:40:47,260 --> 00:40:47,740
+the stuff they
+
+1824
+00:40:47,740 --> 00:40:49,020
+do it's just
+
+1825
+00:40:49,020 --> 00:40:50,340
+not in the
+
+1826
+00:40:50,340 --> 00:40:51,240
+same objective
+
+1827
+00:40:51,240 --> 00:40:52,420
+as the retail
+
+1828
+00:40:52,420 --> 00:40:52,780
+trader
+
+1829
+00:40:52,780 --> 00:40:54,660
+investment banks
+
+1830
+00:40:54,660 --> 00:40:55,140
+are trading
+
+1831
+00:40:55,140 --> 00:40:57,380
+with the bank's
+
+1832
+00:40:57,380 --> 00:40:57,580
+money
+
+1833
+00:40:57,580 --> 00:40:58,160
+when they're
+
+1834
+00:40:58,160 --> 00:40:58,800
+doing proprietary
+
+1835
+00:40:58,800 --> 00:40:59,280
+trading
+
+1836
+00:40:59,280 --> 00:41:00,120
+as in
+
+1837
+00:41:00,120 --> 00:41:01,980
+all business
+
+1838
+00:41:01,980 --> 00:41:02,660
+within the bank
+
+1839
+00:41:02,660 --> 00:41:03,560
+that's proprietary
+
+1840
+00:41:03,560 --> 00:41:04,560
+to doing business
+
+1841
+00:41:04,560 --> 00:41:05,140
+with clients
+
+1842
+00:41:05,140 --> 00:41:07,480
+the vast majority
+
+1843
+00:41:07,480 --> 00:41:08,100
+of the time
+
+1844
+00:41:08,100 --> 00:41:09,300
+and we're talking
+
+1845
+00:41:09,300 --> 00:41:10,600
+80-90% of the
+
+1846
+00:41:10,600 --> 00:41:10,860
+time
+
+1847
+00:41:10,860 --> 00:41:12,340
+of a professional
+
+1848
+00:41:12,340 --> 00:41:13,140
+trader at an
+
+1849
+00:41:13,140 --> 00:41:13,780
+investment bank
+
+1850
+00:41:13,780 --> 00:41:16,780
+they are trading
+
+1851
+00:41:16,780 --> 00:41:17,740
+with clients
+
+1852
+00:41:17,740 --> 00:41:18,960
+so either on
+
+1853
+00:41:18,960 --> 00:41:19,560
+behalf of the
+
+1854
+00:41:19,560 --> 00:41:19,840
+client
+
+1855
+00:41:19,840 --> 00:41:20,760
+or
+
+1856
+00:41:20,760 --> 00:41:22,140
+they're trading
+
+1857
+00:41:22,140 --> 00:41:22,780
+on the other
+
+1858
+00:41:22,780 --> 00:41:23,280
+side of the
+
+1859
+00:41:23,280 --> 00:41:23,560
+client
+
+1860
+00:41:23,560 --> 00:41:24,200
+and taking
+
+1861
+00:41:24,200 --> 00:41:24,960
+risk
+
+1862
+00:41:24,960 --> 00:41:25,980
+using the
+
+1863
+00:41:25,980 --> 00:41:26,460
+bank's money
+
+1864
+00:41:26,460 --> 00:41:27,000
+on the other
+
+1865
+00:41:27,000 --> 00:41:27,300
+side
+
+1866
+00:41:27,300 --> 00:41:29,680
+nothing a retail
+
+1867
+00:41:29,680 --> 00:41:30,320
+trader does
+
+1868
+00:41:30,320 --> 00:41:31,440
+is in any
+
+1869
+00:41:31,440 --> 00:41:31,900
+way similar
+
+1870
+00:41:31,900 --> 00:41:33,960
+so these
+
+1871
+00:41:33,960 --> 00:41:35,360
+guys in
+
+1872
+00:41:35,360 --> 00:41:36,040
+terms of
+
+1873
+00:41:36,040 --> 00:41:37,680
+80-90%
+
+1874
+00:41:37,680 --> 00:41:38,100
+of their
+
+1875
+00:41:38,100 --> 00:41:38,740
+day-to-day
+
+1876
+00:41:38,740 --> 00:41:39,500
+activities
+
+1877
+00:41:39,500 --> 00:41:40,980
+retail traders
+
+1878
+00:41:40,980 --> 00:41:42,100
+you just don't
+
+1879
+00:41:42,100 --> 00:41:42,520
+need to think
+
+1880
+00:41:42,520 --> 00:41:42,940
+about it
+
+1881
+00:41:42,940 --> 00:41:45,460
+the only thing
+
+1882
+00:41:45,460 --> 00:41:45,940
+that they do
+
+1883
+00:41:45,940 --> 00:41:46,580
+which is similar
+
+1884
+00:41:46,580 --> 00:41:47,960
+is proprietary
+
+1885
+00:41:47,960 --> 00:41:48,400
+trading
+
+1886
+00:41:48,400 --> 00:41:49,140
+which is using
+
+1887
+00:41:49,140 --> 00:41:49,540
+the bank's
+
+1888
+00:41:49,540 --> 00:41:50,620
+money to make
+
+1889
+00:41:50,620 --> 00:41:51,480
+back the losses
+
+1890
+00:41:51,480 --> 00:41:52,460
+from doing
+
+1891
+00:41:52,460 --> 00:41:53,260
+client business
+
+1892
+00:41:53,260 --> 00:41:56,280
+in their
+
+1893
+00:41:56,280 --> 00:41:56,880
+approach
+
+1894
+00:41:56,880 --> 00:41:58,180
+in terms of
+
+1895
+00:41:58,180 --> 00:41:59,900
+prop trading
+
+1896
+00:41:59,900 --> 00:42:01,600
+that's what
+
+1897
+00:42:01,600 --> 00:42:02,020
+we're interested
+
+1898
+00:42:02,020 --> 00:42:02,560
+in because that
+
+1899
+00:42:02,560 --> 00:42:03,220
+approach is very
+
+1900
+00:42:03,220 --> 00:42:03,920
+similar to hedge
+
+1901
+00:42:03,920 --> 00:42:04,400
+fund managers
+
+1902
+00:42:04,400 --> 00:42:06,200
+it's no coincidence
+
+1903
+00:42:06,200 --> 00:42:07,920
+that most hedge
+
+1904
+00:42:07,920 --> 00:42:08,540
+fund managers
+
+1905
+00:42:08,540 --> 00:42:10,340
+originally start
+
+1906
+00:42:10,340 --> 00:42:10,920
+off at
+
+1907
+00:42:10,920 --> 00:42:11,640
+investment banks
+
+1908
+00:42:11,640 --> 00:42:13,380
+the proprietary
+
+1909
+00:42:13,380 --> 00:42:14,240
+trading function
+
+1910
+00:42:14,240 --> 00:42:14,880
+of a guy in
+
+1911
+00:42:14,880 --> 00:42:15,520
+investment bank
+
+1912
+00:42:15,520 --> 00:42:17,080
+is very similar
+
+1913
+00:42:17,080 --> 00:42:19,100
+to the approach
+
+1914
+00:42:19,100 --> 00:42:19,680
+of a hedge fund
+
+1915
+00:42:19,680 --> 00:42:19,960
+manager
+
+1916
+00:42:19,960 --> 00:42:21,960
+but remember
+
+1917
+00:42:21,960 --> 00:42:22,500
+one thing
+
+1918
+00:42:22,500 --> 00:42:23,120
+the guy in the
+
+1919
+00:42:23,120 --> 00:42:23,760
+investment bank
+
+1920
+00:42:23,760 --> 00:42:25,760
+80-90% of what
+
+1921
+00:42:25,760 --> 00:42:26,560
+they do is
+
+1922
+00:42:26,560 --> 00:42:27,260
+irrelevant for
+
+1923
+00:42:27,260 --> 00:42:27,900
+retail traders
+
+1924
+00:42:27,900 --> 00:42:30,200
+and the second
+
+1925
+00:42:30,200 --> 00:42:30,900
+thing they get
+
+1926
+00:42:30,900 --> 00:42:31,660
+a basic salary
+
+1927
+00:42:31,660 --> 00:42:34,980
+hedge fund managers
+
+1928
+00:42:34,980 --> 00:42:35,740
+different
+
+1929
+00:42:35,740 --> 00:42:36,960
+in that
+
+1930
+00:42:36,960 --> 00:42:38,100
+they have their
+
+1931
+00:42:38,100 --> 00:42:38,580
+own money
+
+1932
+00:42:38,580 --> 00:42:39,800
+in the fund
+
+1933
+00:42:39,800 --> 00:42:42,160
+very similar
+
+1934
+00:42:42,160 --> 00:42:43,040
+to retail traders
+
+1935
+00:42:43,040 --> 00:42:43,760
+in their objectives
+
+1936
+00:42:43,760 --> 00:42:45,740
+because a hedge fund
+
+1937
+00:42:45,740 --> 00:42:46,480
+manager wants to
+
+1938
+00:42:46,480 --> 00:42:47,240
+create wealth
+
+1939
+00:42:47,240 --> 00:42:49,260
+but doing it
+
+1940
+00:42:49,260 --> 00:42:49,900
+in a very different
+
+1941
+00:42:49,900 --> 00:42:50,220
+way
+
+1942
+00:42:50,220 --> 00:42:51,860
+a very different
+
+1943
+00:42:51,860 --> 00:42:52,620
+way to the way
+
+1944
+00:42:52,620 --> 00:42:53,340
+retail traders
+
+1945
+00:42:53,340 --> 00:42:53,900
+would expect
+
+1946
+00:42:53,900 --> 00:42:55,620
+firstly
+
+1947
+00:42:55,620 --> 00:42:56,280
+they're charging
+
+1948
+00:42:56,280 --> 00:42:57,100
+a management fee
+
+1949
+00:42:57,100 --> 00:42:58,900
+so they put
+
+1950
+00:42:58,900 --> 00:42:59,480
+their own money
+
+1951
+00:42:59,480 --> 00:43:00,120
+in their fund
+
+1952
+00:43:00,120 --> 00:43:02,100
+and they accept
+
+1953
+00:43:02,100 --> 00:43:03,660
+outside investors
+
+1954
+00:43:03,660 --> 00:43:03,980
+money
+
+1955
+00:43:03,980 --> 00:43:05,740
+and they charge
+
+1956
+00:43:05,740 --> 00:43:06,460
+a management fee
+
+1957
+00:43:06,460 --> 00:43:07,480
+some would say
+
+1958
+00:43:07,480 --> 00:43:08,300
+the reason why
+
+1959
+00:43:08,300 --> 00:43:09,380
+they accept
+
+1960
+00:43:09,380 --> 00:43:10,220
+outside investors
+
+1961
+00:43:10,220 --> 00:43:10,880
+money is so
+
+1962
+00:43:10,880 --> 00:43:11,500
+they can charge
+
+1963
+00:43:11,500 --> 00:43:12,160
+a management fee
+
+1964
+00:43:12,160 --> 00:43:13,140
+so they can get
+
+1965
+00:43:13,140 --> 00:43:13,860
+a basic salary
+
+1966
+00:43:13,860 --> 00:43:15,340
+the management fee
+
+1967
+00:43:15,340 --> 00:43:16,780
+pays for all
+
+1968
+00:43:16,780 --> 00:43:17,640
+of the infrastructure
+
+1969
+00:43:17,640 --> 00:43:18,800
+and basic salaries
+
+1970
+00:43:18,800 --> 00:43:20,100
+of the office
+
+1971
+00:43:20,100 --> 00:43:21,100
+and the people
+
+1972
+00:43:21,100 --> 00:43:23,320
+at the hedge fund
+
+1973
+00:43:23,320 --> 00:43:24,560
+typically
+
+1974
+00:43:24,560 --> 00:43:25,900
+a basic salary
+
+1975
+00:43:25,900 --> 00:43:27,920
+management fee
+
+1976
+00:43:27,920 --> 00:43:28,440
+would be
+
+1977
+00:43:28,440 --> 00:43:29,660
+1-2%
+
+1978
+00:43:29,660 --> 00:43:31,860
+on assets
+
+1979
+00:43:31,860 --> 00:43:32,580
+under management
+
+1980
+00:43:32,580 --> 00:43:33,620
+AUM
+
+1981
+00:43:33,620 --> 00:43:35,960
+and then
+
+1982
+00:43:35,960 --> 00:43:36,700
+on top of that
+
+1983
+00:43:36,700 --> 00:43:37,240
+they're charging
+
+1984
+00:43:37,240 --> 00:43:37,940
+a performance fee
+
+1985
+00:43:37,940 --> 00:43:39,600
+typically
+
+1986
+00:43:39,600 --> 00:43:40,420
+a performance fee
+
+1987
+00:43:40,420 --> 00:43:41,560
+would be 20%
+
+1988
+00:43:41,560 --> 00:43:42,320
+of any money
+
+1989
+00:43:42,320 --> 00:43:43,960
+made for outside investors
+
+1990
+00:43:43,960 --> 00:43:46,600
+so what have we got here
+
+1991
+00:43:46,600 --> 00:43:48,140
+we've got a basic salary
+
+1992
+00:43:48,140 --> 00:43:50,060
+which protects
+
+1993
+00:43:50,060 --> 00:43:51,720
+the downside wealth
+
+1994
+00:43:51,720 --> 00:43:53,120
+of the hedge fund manager
+
+1995
+00:43:53,120 --> 00:43:56,740
+it protects their downside
+
+1996
+00:43:56,740 --> 00:43:58,080
+so it protects
+
+1997
+00:43:58,080 --> 00:43:58,980
+the hedge fund manager
+
+1998
+00:43:58,980 --> 00:43:59,960
+from becoming poorer
+
+1999
+00:43:59,960 --> 00:44:02,200
+what have we got
+
+2000
+00:44:02,200 --> 00:44:02,720
+on the upside
+
+2001
+00:44:02,720 --> 00:44:03,980
+we've got the performance fee
+
+2002
+00:44:03,980 --> 00:44:05,520
+where the hedge fund manager
+
+2003
+00:44:05,520 --> 00:44:08,120
+charges the performance fee
+
+2004
+00:44:08,120 --> 00:44:09,620
+typically 20%
+
+2005
+00:44:09,620 --> 00:44:11,540
+to become wealthier
+
+2006
+00:44:11,540 --> 00:44:13,280
+now
+
+2007
+00:44:13,280 --> 00:44:14,420
+how do they actually
+
+2008
+00:44:14,420 --> 00:44:15,380
+become wealthier
+
+2009
+00:44:15,380 --> 00:44:16,440
+well what they do is
+
+2010
+00:44:16,440 --> 00:44:17,460
+they have contracts
+
+2011
+00:44:17,460 --> 00:44:18,620
+with their outside investors
+
+2012
+00:44:18,620 --> 00:44:20,400
+and typically
+
+2013
+00:44:20,400 --> 00:44:21,480
+their outside investors
+
+2014
+00:44:21,480 --> 00:44:22,180
+will make
+
+2015
+00:44:22,180 --> 00:44:22,780
+the manager
+
+2016
+00:44:22,780 --> 00:44:23,960
+contract
+
+2017
+00:44:23,960 --> 00:44:24,680
+to
+
+2018
+00:44:24,680 --> 00:44:26,660
+putting at least
+
+2019
+00:44:26,660 --> 00:44:28,240
+half the management fee
+
+2020
+00:44:28,240 --> 00:44:29,100
+back
+
+2021
+00:44:29,100 --> 00:44:30,840
+half the performance fee
+
+2022
+00:44:30,840 --> 00:44:31,200
+apologies
+
+2023
+00:44:31,200 --> 00:44:33,040
+half the performance fee
+
+2024
+00:44:33,040 --> 00:44:34,260
+back into
+
+2025
+00:44:34,260 --> 00:44:34,840
+the hedge fund
+
+2026
+00:44:34,840 --> 00:44:36,620
+back into
+
+2027
+00:44:36,620 --> 00:44:37,220
+the strategy
+
+2028
+00:44:37,220 --> 00:44:39,860
+so what does that mean
+
+2029
+00:44:39,860 --> 00:44:40,240
+well
+
+2030
+00:44:40,240 --> 00:44:41,080
+let's go through
+
+2031
+00:44:41,080 --> 00:44:41,540
+an example
+
+2032
+00:44:41,540 --> 00:44:42,420
+where
+
+2033
+00:44:42,420 --> 00:44:44,060
+a hedge fund manager
+
+2034
+00:44:44,060 --> 00:44:46,340
+charges
+
+2035
+00:44:46,340 --> 00:44:47,080
+2%
+
+2036
+00:44:47,080 --> 00:44:47,740
+management fee
+
+2037
+00:44:47,740 --> 00:44:48,640
+and 20%
+
+2038
+00:44:48,640 --> 00:44:49,200
+performance fee
+
+2039
+00:44:49,200 --> 00:44:51,520
+and
+
+2040
+00:44:51,520 --> 00:44:52,060
+let's say
+
+2041
+00:44:52,060 --> 00:44:52,500
+for example
+
+2042
+00:44:52,500 --> 00:44:53,140
+it's your money
+
+2043
+00:44:53,140 --> 00:44:54,380
+well
+
+2044
+00:44:54,380 --> 00:44:56,660
+if you put in
+
+2045
+00:44:56,660 --> 00:44:57,360
+100
+
+2046
+00:44:57,360 --> 00:44:59,060
+and it becomes
+
+2047
+00:44:59,060 --> 00:45:00,000
+120
+
+2048
+00:45:00,000 --> 00:45:01,700
+in one year
+
+2049
+00:45:01,700 --> 00:45:02,660
+so let's say
+
+2050
+00:45:02,660 --> 00:45:04,160
+that's 100 million US dollars
+
+2051
+00:45:04,160 --> 00:45:06,040
+and the hedge fund manager
+
+2052
+00:45:06,040 --> 00:45:06,500
+makes
+
+2053
+00:45:06,500 --> 00:45:07,920
+20 million dollars
+
+2054
+00:45:07,920 --> 00:45:09,280
+in one year
+
+2055
+00:45:09,280 --> 00:45:11,200
+well
+
+2056
+00:45:11,200 --> 00:45:12,760
+if the hedge fund manager
+
+2057
+00:45:12,760 --> 00:45:13,240
+came to you
+
+2058
+00:45:13,240 --> 00:45:13,660
+and said
+
+2059
+00:45:13,660 --> 00:45:14,560
+I'm going to charge you
+
+2060
+00:45:14,560 --> 00:45:15,780
+a 20% performance fee
+
+2061
+00:45:15,780 --> 00:45:16,820
+4 million dollars
+
+2062
+00:45:16,820 --> 00:45:18,820
+and I'm going to take
+
+2063
+00:45:18,820 --> 00:45:19,660
+all of that money
+
+2064
+00:45:19,660 --> 00:45:21,540
+and just not reinvest
+
+2065
+00:45:21,540 --> 00:45:21,940
+in the fund
+
+2066
+00:45:21,940 --> 00:45:23,100
+well
+
+2067
+00:45:23,100 --> 00:45:23,640
+you're not going to be
+
+2068
+00:45:23,640 --> 00:45:24,120
+very happy
+
+2069
+00:45:24,120 --> 00:45:26,380
+you're not going to be happy
+
+2070
+00:45:26,380 --> 00:45:27,680
+because it gives you
+
+2071
+00:45:27,680 --> 00:45:28,080
+the message
+
+2072
+00:45:28,080 --> 00:45:29,180
+that the hedge fund manager
+
+2073
+00:45:29,180 --> 00:45:30,820
+is not willing to invest
+
+2074
+00:45:30,820 --> 00:45:31,620
+in their own strategy
+
+2075
+00:45:31,620 --> 00:45:33,180
+that defeats
+
+2076
+00:45:33,180 --> 00:45:33,860
+the whole purpose
+
+2077
+00:45:33,860 --> 00:45:35,980
+the whole purpose here
+
+2078
+00:45:35,980 --> 00:45:36,380
+is that
+
+2079
+00:45:36,380 --> 00:45:36,860
+everybody
+
+2080
+00:45:36,860 --> 00:45:38,400
+becomes wealthier
+
+2081
+00:45:38,400 --> 00:45:39,060
+together
+
+2082
+00:45:39,060 --> 00:45:40,440
+and that
+
+2083
+00:45:40,440 --> 00:45:41,440
+the hedge fund manager's
+
+2084
+00:45:41,440 --> 00:45:42,200
+winning strategy
+
+2085
+00:45:42,200 --> 00:45:43,380
+is so good
+
+2086
+00:45:43,380 --> 00:45:44,220
+that
+
+2087
+00:45:44,220 --> 00:45:45,360
+outside investors
+
+2088
+00:45:45,360 --> 00:45:46,660
+want to invest in it
+
+2089
+00:45:46,660 --> 00:45:47,460
+therefore
+
+2090
+00:45:47,460 --> 00:45:48,680
+if it's so good
+
+2091
+00:45:48,680 --> 00:45:49,620
+why is the person
+
+2092
+00:45:49,620 --> 00:45:50,280
+not investing
+
+2093
+00:45:50,280 --> 00:45:51,020
+in their own strategy
+
+2094
+00:45:51,020 --> 00:45:52,300
+well it doesn't make
+
+2095
+00:45:52,300 --> 00:45:52,740
+any sense
+
+2096
+00:45:52,740 --> 00:45:53,820
+so typically
+
+2097
+00:45:53,820 --> 00:45:54,600
+what will happen is
+
+2098
+00:45:54,600 --> 00:45:55,440
+they'll be contracted
+
+2099
+00:45:55,440 --> 00:45:56,260
+to invest
+
+2100
+00:45:56,260 --> 00:45:57,480
+at least half
+
+2101
+00:45:57,480 --> 00:45:58,840
+of the performance fee
+
+2102
+00:45:58,840 --> 00:46:00,360
+back into the fund
+
+2103
+00:46:00,360 --> 00:46:01,960
+so out of that
+
+2104
+00:46:01,960 --> 00:46:02,740
+4 million dollars
+
+2105
+00:46:02,740 --> 00:46:03,640
+2 million dollars
+
+2106
+00:46:03,640 --> 00:46:04,560
+will be reinvested
+
+2107
+00:46:04,560 --> 00:46:06,380
+now what happens
+
+2108
+00:46:06,380 --> 00:46:07,200
+if the hedge fund manager
+
+2109
+00:46:07,200 --> 00:46:08,020
+doesn't make money
+
+2110
+00:46:08,020 --> 00:46:09,300
+so the 100 million
+
+2111
+00:46:09,300 --> 00:46:11,500
+stays at 100 million
+
+2112
+00:46:11,500 --> 00:46:13,720
+well it's pretty obvious
+
+2113
+00:46:13,720 --> 00:46:15,660
+there's no performance fee
+
+2114
+00:46:15,660 --> 00:46:17,980
+therefore there's no
+
+2115
+00:46:17,980 --> 00:46:19,120
+reinvestment
+
+2116
+00:46:19,120 --> 00:46:20,100
+of the performance fee
+
+2117
+00:46:20,100 --> 00:46:22,220
+so what do hedge fund managers do
+
+2118
+00:46:22,220 --> 00:46:24,700
+they invest in themselves
+
+2119
+00:46:24,700 --> 00:46:26,240
+and increase
+
+2120
+00:46:26,240 --> 00:46:28,120
+their trading accounts
+
+2121
+00:46:28,120 --> 00:46:30,000
+because a hedge fund
+
+2122
+00:46:30,000 --> 00:46:30,480
+essentially
+
+2123
+00:46:30,480 --> 00:46:31,400
+if you look at it
+
+2124
+00:46:31,400 --> 00:46:31,920
+in that way
+
+2125
+00:46:31,920 --> 00:46:33,100
+it is a trading account
+
+2126
+00:46:33,100 --> 00:46:35,900
+they invest
+
+2127
+00:46:35,900 --> 00:46:36,500
+in
+
+2128
+00:46:36,500 --> 00:46:37,860
+themselves
+
+2129
+00:46:37,860 --> 00:46:38,900
+when they're making money
+
+2130
+00:46:38,900 --> 00:46:40,480
+and they don't invest
+
+2131
+00:46:40,480 --> 00:46:41,580
+when they're not making money
+
+2132
+00:46:41,580 --> 00:46:43,620
+and the objective
+
+2133
+00:46:43,620 --> 00:46:44,360
+is
+
+2134
+00:46:44,360 --> 00:46:44,900
+obviously
+
+2135
+00:46:44,900 --> 00:46:45,660
+to make money
+
+2136
+00:46:45,660 --> 00:46:46,720
+every year
+
+2137
+00:46:46,720 --> 00:46:49,580
+but every year
+
+2138
+00:46:49,580 --> 00:46:50,440
+if they're making money
+
+2139
+00:46:50,440 --> 00:46:51,400
+to increase
+
+2140
+00:46:51,400 --> 00:46:51,980
+their assets
+
+2141
+00:46:51,980 --> 00:46:52,540
+under management
+
+2142
+00:46:52,540 --> 00:46:53,940
+what does this mean
+
+2143
+00:46:53,940 --> 00:46:54,740
+for retail traders
+
+2144
+00:46:54,740 --> 00:46:55,620
+simple
+
+2145
+00:46:55,620 --> 00:46:57,220
+you don't take income
+
+2146
+00:46:57,220 --> 00:46:58,240
+from your trading account
+
+2147
+00:46:58,240 --> 00:47:00,040
+you grow your trading account
+
+2148
+00:47:00,040 --> 00:47:01,160
+over your lifetime
+
+2149
+00:47:01,160 --> 00:47:03,280
+until retirement
+
+2150
+00:47:03,280 --> 00:47:05,020
+now
+
+2151
+00:47:05,020 --> 00:47:07,040
+think of the opposite situation
+
+2152
+00:47:07,040 --> 00:47:09,940
+where if you're a retail trader
+
+2153
+00:47:09,940 --> 00:47:11,960
+and this is a very typical situation
+
+2154
+00:47:11,960 --> 00:47:13,660
+in the retail trading community
+
+2155
+00:47:13,660 --> 00:47:16,160
+the vast majority of retail traders
+
+2156
+00:47:16,160 --> 00:47:17,180
+are under the impression
+
+2157
+00:47:17,180 --> 00:47:18,560
+that trading
+
+2158
+00:47:18,560 --> 00:47:19,160
+is
+
+2159
+00:47:19,160 --> 00:47:20,140
+for some reason
+
+2160
+00:47:20,140 --> 00:47:21,740
+for income
+
+2161
+00:47:21,740 --> 00:47:23,380
+whether it's
+
+2162
+00:47:23,380 --> 00:47:24,380
+they're going to do it full time
+
+2163
+00:47:24,380 --> 00:47:25,420
+or
+
+2164
+00:47:25,420 --> 00:47:26,400
+what most people do
+
+2165
+00:47:26,400 --> 00:47:27,820
+is they try to trade
+
+2166
+00:47:27,820 --> 00:47:29,880
+and they try to
+
+2167
+00:47:29,880 --> 00:47:31,040
+supplement
+
+2168
+00:47:31,040 --> 00:47:32,840
+their salary
+
+2169
+00:47:32,840 --> 00:47:35,300
+by taking a monthly income
+
+2170
+00:47:35,300 --> 00:47:36,220
+from their trading account
+
+2171
+00:47:36,220 --> 00:47:37,860
+so let's think of this
+
+2172
+00:47:37,860 --> 00:47:38,800
+in round numbers again
+
+2173
+00:47:38,800 --> 00:47:41,140
+let's say
+
+2174
+00:47:41,140 --> 00:47:42,360
+you put $100,000
+
+2175
+00:47:42,360 --> 00:47:43,680
+in your trading account
+
+2176
+00:47:43,680 --> 00:47:44,920
+and
+
+2177
+00:47:44,920 --> 00:47:45,420
+you
+
+2178
+00:47:45,420 --> 00:47:46,460
+have the
+
+2179
+00:47:46,460 --> 00:47:47,180
+impression
+
+2180
+00:47:47,180 --> 00:47:47,740
+that
+
+2181
+00:47:47,740 --> 00:47:48,840
+you're going to make
+
+2182
+00:47:48,840 --> 00:47:50,100
+$10,000 a month
+
+2183
+00:47:50,100 --> 00:47:51,880
+trading the forex markets
+
+2184
+00:47:51,880 --> 00:47:53,740
+and
+
+2185
+00:47:53,740 --> 00:47:54,960
+you're going to take out
+
+2186
+00:47:54,960 --> 00:47:56,420
+$10,000 a month
+
+2187
+00:47:56,420 --> 00:47:58,120
+in income
+
+2188
+00:47:58,120 --> 00:48:00,180
+to supplement
+
+2189
+00:48:00,180 --> 00:48:00,940
+your
+
+2190
+00:48:00,940 --> 00:48:02,020
+salary
+
+2191
+00:48:02,020 --> 00:48:03,180
+doing something else
+
+2192
+00:48:03,180 --> 00:48:04,740
+so
+
+2193
+00:48:04,740 --> 00:48:05,860
+you open your account
+
+2194
+00:48:05,860 --> 00:48:06,360
+and
+
+2195
+00:48:06,360 --> 00:48:07,160
+after month one
+
+2196
+00:48:07,160 --> 00:48:07,780
+you're up
+
+2197
+00:48:07,780 --> 00:48:08,640
+$10,000
+
+2198
+00:48:08,640 --> 00:48:10,760
+what's the next thing you do?
+
+2199
+00:48:12,020 --> 00:48:12,540
+well
+
+2200
+00:48:12,540 --> 00:48:13,740
+you need to pay yourself
+
+2201
+00:48:13,740 --> 00:48:14,260
+$10,000
+
+2202
+00:48:14,260 --> 00:48:15,220
+so you take
+
+2203
+00:48:15,220 --> 00:48:15,840
+$10,000
+
+2204
+00:48:15,840 --> 00:48:16,760
+out of your account
+
+2205
+00:48:16,760 --> 00:48:17,860
+what happens
+
+2206
+00:48:17,860 --> 00:48:19,200
+your capital is back
+
+2207
+00:48:19,200 --> 00:48:20,200
+to $100,000
+
+2208
+00:48:20,200 --> 00:48:22,540
+now if you go and spend
+
+2209
+00:48:22,540 --> 00:48:23,200
+that $10,000
+
+2210
+00:48:23,200 --> 00:48:24,080
+you're no wealthier
+
+2211
+00:48:24,080 --> 00:48:25,940
+so there's no point
+
+2212
+00:48:25,940 --> 00:48:26,960
+now
+
+2213
+00:48:26,960 --> 00:48:27,800
+what happens
+
+2214
+00:48:27,800 --> 00:48:29,000
+if
+
+2215
+00:48:29,000 --> 00:48:31,160
+you then in month two
+
+2216
+00:48:31,160 --> 00:48:32,620
+lose $10,000
+
+2217
+00:48:32,620 --> 00:48:33,920
+but
+
+2218
+00:48:33,920 --> 00:48:36,140
+you're relying on your trading account
+
+2219
+00:48:36,140 --> 00:48:37,620
+to pay you a salary
+
+2220
+00:48:37,620 --> 00:48:38,340
+of $10,000
+
+2221
+00:48:38,340 --> 00:48:40,120
+well that just means
+
+2222
+00:48:40,120 --> 00:48:40,800
+you're going to take
+
+2223
+00:48:40,800 --> 00:48:41,460
+$10,000
+
+2224
+00:48:41,460 --> 00:48:42,480
+out of your account
+
+2225
+00:48:42,480 --> 00:48:45,320
+you're going to go
+
+2226
+00:48:45,320 --> 00:48:46,340
+from $100,000
+
+2227
+00:48:46,340 --> 00:48:47,140
+to $80,000
+
+2228
+00:48:47,140 --> 00:48:49,720
+now to maintain
+
+2229
+00:48:49,720 --> 00:48:50,440
+the same
+
+2230
+00:48:50,440 --> 00:48:52,120
+levels of exposure
+
+2231
+00:48:52,120 --> 00:48:53,720
+you're going to have
+
+2232
+00:48:53,720 --> 00:48:54,200
+to take
+
+2233
+00:48:54,200 --> 00:48:55,020
+more risk
+
+2234
+00:48:55,020 --> 00:48:56,180
+to get
+
+2235
+00:48:56,180 --> 00:48:57,100
+the same return
+
+2236
+00:48:57,100 --> 00:48:57,960
+that you had
+
+2237
+00:48:57,960 --> 00:48:58,460
+previously
+
+2238
+00:48:58,460 --> 00:49:00,540
+so
+
+2239
+00:49:00,540 --> 00:49:02,680
+all that you're doing
+
+2240
+00:49:02,680 --> 00:49:03,420
+is the opposite
+
+2241
+00:49:03,420 --> 00:49:04,640
+of what a professional
+
+2242
+00:49:04,640 --> 00:49:05,180
+trader does
+
+2243
+00:49:05,180 --> 00:49:06,620
+a professional trader
+
+2244
+00:49:06,620 --> 00:49:08,400
+doesn't take money
+
+2245
+00:49:08,400 --> 00:49:09,320
+out when they're winning
+
+2246
+00:49:09,320 --> 00:49:11,560
+and doesn't put money in
+
+2247
+00:49:11,560 --> 00:49:12,380
+when they're losing
+
+2248
+00:49:12,380 --> 00:49:14,460
+but they don't take
+
+2249
+00:49:14,460 --> 00:49:15,140
+more risk either
+
+2250
+00:49:15,140 --> 00:49:16,140
+so
+
+2251
+00:49:16,140 --> 00:49:18,320
+what you're actually doing
+
+2252
+00:49:18,320 --> 00:49:18,840
+is the opposite
+
+2253
+00:49:18,840 --> 00:49:21,500
+when you make $10,000
+
+2254
+00:49:21,500 --> 00:49:22,760
+you're taking it out
+
+2255
+00:49:22,760 --> 00:49:23,360
+as income
+
+2256
+00:49:23,360 --> 00:49:24,800
+and
+
+2257
+00:49:24,800 --> 00:49:25,400
+when
+
+2258
+00:49:25,400 --> 00:49:27,180
+you lose
+
+2259
+00:49:27,180 --> 00:49:28,780
+you're taking income again
+
+2260
+00:49:28,780 --> 00:49:29,320
+which means
+
+2261
+00:49:29,320 --> 00:49:30,440
+you're taking more risk
+
+2262
+00:49:30,440 --> 00:49:31,100
+to maintain
+
+2263
+00:49:31,100 --> 00:49:32,020
+the same levels
+
+2264
+00:49:32,020 --> 00:49:32,560
+of exposure
+
+2265
+00:49:32,560 --> 00:49:33,920
+now
+
+2266
+00:49:33,920 --> 00:49:35,040
+if you're going to invest
+
+2267
+00:49:35,040 --> 00:49:35,680
+in a hedge fund
+
+2268
+00:49:35,680 --> 00:49:36,860
+I'd bet
+
+2269
+00:49:36,860 --> 00:49:37,640
+if you were going to put
+
+2270
+00:49:37,640 --> 00:49:38,380
+your life savings
+
+2271
+00:49:38,380 --> 00:49:38,960
+in a hedge fund
+
+2272
+00:49:38,960 --> 00:49:40,320
+you would
+
+2273
+00:49:40,320 --> 00:49:41,320
+want to see
+
+2274
+00:49:41,320 --> 00:49:42,720
+consistency
+
+2275
+00:49:42,720 --> 00:49:44,060
+of returns
+
+2276
+00:49:44,060 --> 00:49:45,520
+you would want to see
+
+2277
+00:49:45,520 --> 00:49:46,420
+diversity
+
+2278
+00:49:46,420 --> 00:49:47,460
+in risk management
+
+2279
+00:49:47,460 --> 00:49:48,840
+you would want to see
+
+2280
+00:49:48,840 --> 00:49:49,500
+responsibility
+
+2281
+00:49:49,500 --> 00:49:50,720
+and
+
+2282
+00:49:50,720 --> 00:49:52,260
+the consistency
+
+2283
+00:49:52,260 --> 00:49:53,260
+that they get
+
+2284
+00:49:53,260 --> 00:49:54,960
+the consistency
+
+2285
+00:49:54,960 --> 00:49:55,540
+comes
+
+2286
+00:49:55,540 --> 00:49:56,440
+over a long
+
+2287
+00:49:56,440 --> 00:49:57,180
+period of time
+
+2288
+00:49:57,180 --> 00:49:59,540
+now if you put
+
+2289
+00:49:59,540 --> 00:50:00,600
+your money in that fund
+
+2290
+00:50:00,600 --> 00:50:02,160
+what's probably
+
+2291
+00:50:02,160 --> 00:50:03,120
+the most important thing
+
+2292
+00:50:03,120 --> 00:50:04,360
+out of everything
+
+2293
+00:50:04,360 --> 00:50:06,260
+probably the most
+
+2294
+00:50:06,260 --> 00:50:06,760
+important thing
+
+2295
+00:50:06,760 --> 00:50:07,500
+is that the manager
+
+2296
+00:50:07,500 --> 00:50:08,800
+themselves invests
+
+2297
+00:50:08,800 --> 00:50:09,500
+when they're winning
+
+2298
+00:50:09,500 --> 00:50:10,860
+when they're actually
+
+2299
+00:50:10,860 --> 00:50:11,520
+making money
+
+2300
+00:50:11,520 --> 00:50:12,440
+they don't take it
+
+2301
+00:50:12,440 --> 00:50:12,980
+out of the fund
+
+2302
+00:50:12,980 --> 00:50:14,020
+they put it back
+
+2303
+00:50:14,020 --> 00:50:14,580
+in the fund
+
+2304
+00:50:14,580 --> 00:50:16,100
+that's not going to
+
+2305
+00:50:16,100 --> 00:50:16,580
+sit with you
+
+2306
+00:50:16,580 --> 00:50:17,140
+very well
+
+2307
+00:50:17,140 --> 00:50:18,980
+if the hedge fund manager
+
+2308
+00:50:18,980 --> 00:50:21,300
+charges you a performance fee
+
+2309
+00:50:21,300 --> 00:50:22,360
+and takes their money out
+
+2310
+00:50:22,360 --> 00:50:24,260
+it just means you're sponsoring
+
+2311
+00:50:24,260 --> 00:50:25,100
+the hedge fund manager
+
+2312
+00:50:25,100 --> 00:50:26,900
+to become wealthier
+
+2313
+00:50:26,900 --> 00:50:30,060
+but they're not investing
+
+2314
+00:50:30,060 --> 00:50:30,860
+in their own strategy
+
+2315
+00:50:30,860 --> 00:50:32,600
+to become even more wealthier
+
+2316
+00:50:32,600 --> 00:50:34,260
+so it doesn't make any sense
+
+2317
+00:50:34,260 --> 00:50:35,440
+it defeats the whole purpose
+
+2318
+00:50:35,440 --> 00:50:37,580
+so
+
+2319
+00:50:37,580 --> 00:50:39,180
+a couple of things here
+
+2320
+00:50:39,180 --> 00:50:39,900
+first
+
+2321
+00:50:39,900 --> 00:50:41,000
+basic salaries
+
+2322
+00:50:41,000 --> 00:50:43,060
+don't be under the impression
+
+2323
+00:50:43,060 --> 00:50:44,340
+that
+
+2324
+00:50:44,340 --> 00:50:45,600
+you're going to
+
+2325
+00:50:45,600 --> 00:50:46,440
+for some reason
+
+2326
+00:50:46,440 --> 00:50:47,100
+leave your job
+
+2327
+00:50:47,100 --> 00:50:48,780
+you're going to
+
+2328
+00:50:48,780 --> 00:50:50,640
+trade
+
+2329
+00:50:50,640 --> 00:50:51,600
+with your own money
+
+2330
+00:50:51,600 --> 00:50:52,520
+and you're going to take
+
+2331
+00:50:52,520 --> 00:50:53,740
+a salary from your trading account
+
+2332
+00:50:53,740 --> 00:50:55,260
+because the only thing
+
+2333
+00:50:55,260 --> 00:50:56,040
+that's going to happen
+
+2334
+00:50:56,040 --> 00:50:57,400
+if
+
+2335
+00:50:57,400 --> 00:50:58,940
+on a monthly basis
+
+2336
+00:50:58,940 --> 00:51:00,240
+you take
+
+2337
+00:51:00,240 --> 00:51:01,520
+money out
+
+2338
+00:51:01,520 --> 00:51:02,300
+when you're winning
+
+2339
+00:51:02,300 --> 00:51:04,320
+and you take more risk
+
+2340
+00:51:04,320 --> 00:51:05,060
+when you're losing
+
+2341
+00:51:05,060 --> 00:51:07,240
+the only thing
+
+2342
+00:51:07,240 --> 00:51:07,960
+that can happen
+
+2343
+00:51:07,960 --> 00:51:08,520
+over time
+
+2344
+00:51:08,520 --> 00:51:10,020
+is that your trading account
+
+2345
+00:51:10,020 --> 00:51:11,100
+goes to zero
+
+2346
+00:51:11,100 --> 00:51:13,460
+secondly
+
+2347
+00:51:13,460 --> 00:51:14,140
+the approach
+
+2348
+00:51:14,140 --> 00:51:15,500
+the approach
+
+2349
+00:51:15,500 --> 00:51:16,140
+has to be
+
+2350
+00:51:16,140 --> 00:51:17,200
+one of consistency
+
+2351
+00:51:17,200 --> 00:51:18,980
+diversity of risk management
+
+2352
+00:51:18,980 --> 00:51:20,320
+and reinvestment
+
+2353
+00:51:20,320 --> 00:51:21,020
+of your money
+
+2354
+00:51:21,020 --> 00:51:21,580
+when you're winning
+
+2355
+00:51:21,580 --> 00:51:23,040
+and taking no
+
+2356
+00:51:23,040 --> 00:51:24,000
+further risk
+
+2357
+00:51:24,000 --> 00:51:24,760
+when you're losing
+
+2358
+00:51:24,760 --> 00:51:26,900
+or not making money
+
+2359
+00:51:26,900 --> 00:51:29,440
+now this situation
+
+2360
+00:51:29,440 --> 00:51:30,920
+of going to zero
+
+2361
+00:51:30,920 --> 00:51:32,200
+let's discuss this
+
+2362
+00:51:32,200 --> 00:51:32,840
+a little bit further
+
+2363
+00:51:32,840 --> 00:51:34,340
+what happens
+
+2364
+00:51:34,340 --> 00:51:34,860
+if
+
+2365
+00:51:34,860 --> 00:51:37,020
+you're in this situation
+
+2366
+00:51:37,020 --> 00:51:37,480
+where
+
+2367
+00:51:37,480 --> 00:51:38,460
+every time
+
+2368
+00:51:38,460 --> 00:51:39,740
+you make money
+
+2369
+00:51:39,740 --> 00:51:40,560
+you take money
+
+2370
+00:51:40,560 --> 00:51:41,560
+out of your trading account
+
+2371
+00:51:41,560 --> 00:51:42,800
+and every time
+
+2372
+00:51:42,800 --> 00:51:43,440
+you lose money
+
+2373
+00:51:43,440 --> 00:51:45,080
+you take more risk
+
+2374
+00:51:45,080 --> 00:51:46,240
+well
+
+2375
+00:51:46,240 --> 00:51:47,740
+you're going to zero
+
+2376
+00:51:47,740 --> 00:51:48,400
+over time
+
+2377
+00:51:48,400 --> 00:51:49,660
+it just depends how long
+
+2378
+00:51:49,660 --> 00:51:50,800
+what happens
+
+2379
+00:51:50,800 --> 00:51:51,620
+if you leverage
+
+2380
+00:51:51,620 --> 00:51:52,500
+this situation
+
+2381
+00:51:52,500 --> 00:51:53,340
+so
+
+2382
+00:51:53,340 --> 00:51:54,100
+we now
+
+2383
+00:51:54,100 --> 00:51:54,600
+borrow
+
+2384
+00:51:54,600 --> 00:51:55,660
+a million dollars
+
+2385
+00:51:55,660 --> 00:51:56,840
+to reinvest
+
+2386
+00:51:56,840 --> 00:51:57,700
+in the same strategy
+
+2387
+00:51:57,700 --> 00:51:58,920
+but we use
+
+2388
+00:51:58,920 --> 00:52:00,140
+the hundred thousand dollars
+
+2389
+00:52:00,140 --> 00:52:01,360
+as collateral
+
+2390
+00:52:01,360 --> 00:52:02,060
+to borrow
+
+2391
+00:52:02,060 --> 00:52:03,880
+the one million dollars
+
+2392
+00:52:03,880 --> 00:52:04,760
+to invest
+
+2393
+00:52:04,760 --> 00:52:05,400
+in this strategy
+
+2394
+00:52:05,400 --> 00:52:06,320
+well
+
+2395
+00:52:06,320 --> 00:52:06,960
+it just means
+
+2396
+00:52:06,960 --> 00:52:08,380
+your hundred thousand dollars
+
+2397
+00:52:08,380 --> 00:52:09,480
+used as collateral
+
+2398
+00:52:09,480 --> 00:52:11,080
+to cover losses
+
+2399
+00:52:11,080 --> 00:52:12,920
+against the million dollars
+
+2400
+00:52:12,920 --> 00:52:13,920
+is going to go
+
+2401
+00:52:13,920 --> 00:52:14,760
+to zero quicker
+
+2402
+00:52:14,760 --> 00:52:16,580
+because you're going
+
+2403
+00:52:16,580 --> 00:52:17,100
+to have to pay
+
+2404
+00:52:17,100 --> 00:52:17,720
+those liabilities
+
+2405
+00:52:17,720 --> 00:52:19,440
+and this is what happens
+
+2406
+00:52:19,440 --> 00:52:21,100
+in every trading account
+
+2407
+00:52:21,100 --> 00:52:22,300
+that we call
+
+2408
+00:52:22,300 --> 00:52:23,460
+a margin account
+
+2409
+00:52:23,460 --> 00:52:24,780
+margin
+
+2410
+00:52:24,780 --> 00:52:25,700
+is just money
+
+2411
+00:52:25,700 --> 00:52:26,400
+that's deposited
+
+2412
+00:52:26,400 --> 00:52:27,560
+in your trading account
+
+2413
+00:52:27,560 --> 00:52:30,140
+and it's used
+
+2414
+00:52:30,140 --> 00:52:30,680
+as collateral
+
+2415
+00:52:30,680 --> 00:52:31,480
+to enable you
+
+2416
+00:52:31,480 --> 00:52:31,920
+to borrow
+
+2417
+00:52:31,920 --> 00:52:33,220
+through the brokerage
+
+2418
+00:52:33,220 --> 00:52:33,580
+company
+
+2419
+00:52:33,580 --> 00:52:35,780
+ten times
+
+2420
+00:52:35,780 --> 00:52:36,280
+typically
+
+2421
+00:52:36,280 --> 00:52:37,040
+in stocks
+
+2422
+00:52:37,040 --> 00:52:37,740
+and indices
+
+2423
+00:52:37,740 --> 00:52:39,520
+and a hundred times
+
+2424
+00:52:39,520 --> 00:52:40,160
+in forex
+
+2425
+00:52:40,160 --> 00:52:42,140
+and if you do that
+
+2426
+00:52:42,140 --> 00:52:43,240
+all that's going
+
+2427
+00:52:43,240 --> 00:52:43,640
+to happen
+
+2428
+00:52:43,640 --> 00:52:44,480
+if you leverage
+
+2429
+00:52:44,480 --> 00:52:45,140
+this strategy
+
+2430
+00:52:45,140 --> 00:52:46,400
+is you're going
+
+2431
+00:52:46,400 --> 00:52:46,940
+to go to zero
+
+2432
+00:52:46,940 --> 00:52:47,280
+quicker
+
+2433
+00:52:47,280 --> 00:52:48,840
+it's the only thing
+
+2434
+00:52:48,840 --> 00:52:49,520
+that can happen
+
+2435
+00:52:49,520 --> 00:52:51,260
+you take money out
+
+2436
+00:52:51,260 --> 00:52:51,780
+when you're winning
+
+2437
+00:52:51,780 --> 00:52:53,100
+you take more risk
+
+2438
+00:52:53,100 --> 00:52:53,640
+when you're losing
+
+2439
+00:52:53,640 --> 00:52:55,700
+the outcome
+
+2440
+00:52:55,700 --> 00:52:56,940
+is terminal
+
+2441
+00:52:56,940 --> 00:52:58,800
+your account
+
+2442
+00:52:58,800 --> 00:52:59,860
+tends
+
+2443
+00:52:59,860 --> 00:53:01,060
+towards zero
+
+2444
+00:53:01,060 --> 00:53:02,220
+and goes
+
+2445
+00:53:02,220 --> 00:53:02,820
+towards zero
+
+2446
+00:53:02,820 --> 00:53:03,180
+quicker
+
+2447
+00:53:03,180 --> 00:53:04,660
+so you just
+
+2448
+00:53:04,660 --> 00:53:05,200
+shouldn't do it
+
+2449
+00:53:05,200 --> 00:53:07,120
+and you'll end up
+
+2450
+00:53:07,120 --> 00:53:08,020
+getting what we call
+
+2451
+00:53:08,020 --> 00:53:09,080
+a margin call
+
+2452
+00:53:09,080 --> 00:53:10,820
+where the broker
+
+2453
+00:53:10,820 --> 00:53:12,540
+literally gives you
+
+2454
+00:53:12,540 --> 00:53:12,920
+a call
+
+2455
+00:53:12,920 --> 00:53:14,220
+a telephone call
+
+2456
+00:53:14,220 --> 00:53:15,220
+and sends you an email
+
+2457
+00:53:15,220 --> 00:53:16,480
+and says you have to
+
+2458
+00:53:16,480 --> 00:53:17,000
+put more money
+
+2459
+00:53:17,000 --> 00:53:17,920
+in your trading account
+
+2460
+00:53:17,920 --> 00:53:18,840
+to cover the losses
+
+2461
+00:53:18,840 --> 00:53:19,580
+in your account
+
+2462
+00:53:19,580 --> 00:53:21,020
+if you don't do that
+
+2463
+00:53:21,020 --> 00:53:21,980
+you're wiped out
+
+2464
+00:53:21,980 --> 00:53:23,980
+so let's go
+
+2465
+00:53:23,980 --> 00:53:25,140
+let's summarize here
+
+2466
+00:53:25,140 --> 00:53:26,040
+before we move on
+
+2467
+00:53:26,040 --> 00:53:28,680
+if you're going to
+
+2468
+00:53:28,680 --> 00:53:29,380
+use your own money
+
+2469
+00:53:29,380 --> 00:53:29,840
+to trade
+
+2470
+00:53:29,840 --> 00:53:32,660
+be under no illusion
+
+2471
+00:53:32,660 --> 00:53:35,060
+professional traders
+
+2472
+00:53:35,060 --> 00:53:36,400
+all have basic salaries
+
+2473
+00:53:36,400 --> 00:53:39,320
+you should have a basic
+
+2474
+00:53:39,320 --> 00:53:40,020
+salary as well
+
+2475
+00:53:40,020 --> 00:53:41,980
+you should maintain
+
+2476
+00:53:41,980 --> 00:53:42,840
+this basic salary
+
+2477
+00:53:42,840 --> 00:53:44,200
+you should trade
+
+2478
+00:53:44,200 --> 00:53:45,020
+to begin with
+
+2479
+00:53:45,020 --> 00:53:45,640
+as a hobby
+
+2480
+00:53:45,640 --> 00:53:48,640
+when you get good
+
+2481
+00:53:48,640 --> 00:53:49,380
+at trading
+
+2482
+00:53:49,380 --> 00:53:50,520
+at some point
+
+2483
+00:53:50,520 --> 00:53:50,960
+in the future
+
+2484
+00:53:50,960 --> 00:53:52,040
+it may become
+
+2485
+00:53:52,040 --> 00:53:52,960
+a viable option
+
+2486
+00:53:52,960 --> 00:53:54,580
+that it becomes
+
+2487
+00:53:54,580 --> 00:53:55,040
+a profession
+
+2488
+00:53:55,040 --> 00:53:56,760
+but as it stands
+
+2489
+00:53:56,760 --> 00:53:58,680
+if you're working
+
+2490
+00:53:58,680 --> 00:53:59,720
+you've got a basic salary
+
+2491
+00:53:59,720 --> 00:54:00,240
+and you're not
+
+2492
+00:54:00,240 --> 00:54:01,080
+a professional trader
+
+2493
+00:54:01,080 --> 00:54:02,100
+you're a retail trader
+
+2494
+00:54:02,100 --> 00:54:03,980
+maintain your basic salary
+
+2495
+00:54:03,980 --> 00:54:05,020
+and protect your downside
+
+2496
+00:54:05,020 --> 00:54:05,400
+wealth
+
+2497
+00:54:05,400 --> 00:54:07,340
+that's the first thing
+
+2498
+00:54:07,340 --> 00:54:09,180
+secondly
+
+2499
+00:54:09,180 --> 00:54:10,640
+your account
+
+2500
+00:54:10,640 --> 00:54:11,660
+your capital
+
+2501
+00:54:11,660 --> 00:54:13,860
+do not take income
+
+2502
+00:54:13,860 --> 00:54:14,800
+from your trading account
+
+2503
+00:54:14,800 --> 00:54:16,580
+when you're winning
+
+2504
+00:54:16,580 --> 00:54:18,420
+do not take more risk
+
+2505
+00:54:18,420 --> 00:54:19,140
+when you're losing
+
+2506
+00:54:19,140 --> 00:54:20,980
+you should view
+
+2507
+00:54:20,980 --> 00:54:21,740
+your trading account
+
+2508
+00:54:21,740 --> 00:54:22,560
+as an asset
+
+2509
+00:54:22,560 --> 00:54:23,620
+in itself
+
+2510
+00:54:23,620 --> 00:54:25,700
+and the asset
+
+2511
+00:54:25,700 --> 00:54:26,980
+you're aiming
+
+2512
+00:54:26,980 --> 00:54:28,060
+to increase
+
+2513
+00:54:28,060 --> 00:54:28,720
+the value
+
+2514
+00:54:28,720 --> 00:54:29,540
+of this asset
+
+2515
+00:54:29,540 --> 00:54:31,080
+over your lifetime
+
+2516
+00:54:31,080 --> 00:54:32,180
+between now
+
+2517
+00:54:32,180 --> 00:54:33,020
+and retirement
+
+2518
+00:54:33,020 --> 00:54:33,940
+or even the day
+
+2519
+00:54:33,940 --> 00:54:34,300
+you die
+
+2520
+00:54:34,300 --> 00:54:37,180
+that asset
+
+2521
+00:54:37,180 --> 00:54:38,560
+sits on your balance sheet
+
+2522
+00:54:38,560 --> 00:54:39,520
+as a human being
+
+2523
+00:54:39,520 --> 00:54:41,160
+and the value
+
+2524
+00:54:41,160 --> 00:54:41,700
+of that asset
+
+2525
+00:54:41,700 --> 00:54:43,400
+is completely linked
+
+2526
+00:54:43,400 --> 00:54:44,180
+to your ability
+
+2527
+00:54:44,180 --> 00:54:44,760
+as a trader
+
+2528
+00:54:44,760 --> 00:54:46,440
+so if you're good
+
+2529
+00:54:46,440 --> 00:54:48,500
+you increase
+
+2530
+00:54:48,500 --> 00:54:48,980
+the value
+
+2531
+00:54:48,980 --> 00:54:49,580
+of your account
+
+2532
+00:54:49,580 --> 00:54:51,380
+and you have an option
+
+2533
+00:54:51,380 --> 00:54:52,240
+to put more money
+
+2534
+00:54:52,240 --> 00:54:53,260
+into your trading account
+
+2535
+00:54:53,260 --> 00:54:54,860
+and keep increasing
+
+2536
+00:54:54,860 --> 00:54:55,800
+the size of your account
+
+2537
+00:54:55,800 --> 00:54:57,500
+if you're bad
+
+2538
+00:54:57,500 --> 00:54:58,800
+you don't
+
+2539
+00:54:58,800 --> 00:55:00,060
+reinvest
+
+2540
+00:55:00,060 --> 00:55:00,920
+in that strategy
+
+2541
+00:55:00,920 --> 00:55:01,680
+you just
+
+2542
+00:55:01,680 --> 00:55:03,120
+try to get better
+
+2543
+00:55:03,120 --> 00:55:04,740
+and when you get better
+
+2544
+00:55:04,740 --> 00:55:06,180
+then you have the option
+
+2545
+00:55:06,180 --> 00:55:07,260
+to invest more money
+
+2546
+00:55:07,260 --> 00:55:09,100
+it's very straightforward
+
+2547
+00:55:09,100 --> 00:55:10,700
+but many many people
+
+2548
+00:55:10,700 --> 00:55:11,700
+make the mistake
+
+2549
+00:55:11,700 --> 00:55:12,840
+because of misinformation
+
+2550
+00:55:12,840 --> 00:55:13,840
+in the market
+
+2551
+00:55:13,840 --> 00:55:16,140
+and in a big bad world
+
+2552
+00:55:16,140 --> 00:55:17,000
+that
+
+2553
+00:55:17,000 --> 00:55:18,960
+professional traders
+
+2554
+00:55:18,960 --> 00:55:20,120
+take income
+
+2555
+00:55:20,120 --> 00:55:21,140
+from their trading account
+
+2556
+00:55:21,140 --> 00:55:22,660
+professional traders
+
+2557
+00:55:22,660 --> 00:55:24,720
+have concentrated risk
+
+2558
+00:55:24,720 --> 00:55:26,540
+they take big risks
+
+2559
+00:55:26,540 --> 00:55:27,600
+they're running around
+
+2560
+00:55:27,600 --> 00:55:29,160
+screaming at lots of people
+
+2561
+00:55:29,160 --> 00:55:30,860
+they've got hundreds
+
+2562
+00:55:30,860 --> 00:55:31,840
+of computer screens
+
+2563
+00:55:31,840 --> 00:55:32,880
+it just doesn't work
+
+2564
+00:55:32,880 --> 00:55:33,780
+like that at all
+
+2565
+00:55:33,780 --> 00:55:34,580
+in fact
+
+2566
+00:55:34,580 --> 00:55:35,540
+most of the things
+
+2567
+00:55:35,540 --> 00:55:36,620
+that you probably think
+
+2568
+00:55:36,620 --> 00:55:37,980
+a professional trader does
+
+2569
+00:55:37,980 --> 00:55:39,680
+they're probably
+
+2570
+00:55:39,680 --> 00:55:41,000
+the total opposite
+
+2571
+00:55:41,000 --> 00:55:42,860
+of what you would expect
+
+2572
+00:55:42,860 --> 00:55:44,900
+in reality
+
+2573
+00:55:44,900 --> 00:55:46,820
+and in reality
+
+2574
+00:55:46,820 --> 00:55:48,880
+from a professional trader's
+
+2575
+00:55:48,880 --> 00:55:49,220
+perspective
+
+2576
+00:55:49,220 --> 00:55:50,160
+I can tell you
+
+2577
+00:55:50,160 --> 00:55:51,540
+they absolutely are
+
+2578
+00:55:51,540 --> 00:55:52,460
+the opposite
+
+2579
+00:55:52,460 --> 00:55:53,420
+of what you would expect
+
+2580
+00:55:53,420 --> 00:55:54,860
+so
+
+2581
+00:55:54,860 --> 00:55:56,620
+just take those things
+
+2582
+00:55:56,620 --> 00:55:57,060
+on board
+
+2583
+00:55:57,060 --> 00:55:58,440
+make sure you know them
+
+2584
+00:55:58,440 --> 00:56:00,160
+now that you know
+
+2585
+00:56:00,160 --> 00:56:01,700
+what a professional trader does
+
+2586
+00:56:01,700 --> 00:56:03,180
+you can move on
+
+2587
+00:56:03,180 --> 00:56:04,340
+to understanding
+
+2588
+00:56:04,340 --> 00:56:05,820
+what successful
+
+2589
+00:56:05,820 --> 00:56:06,940
+professional traders do
+
+2590
+00:56:06,940 --> 00:56:07,440
+as in
+
+2591
+00:56:07,440 --> 00:56:09,100
+the guys who have got
+
+2592
+00:56:09,100 --> 00:56:10,100
+the same objectives
+
+2593
+00:56:10,100 --> 00:56:10,840
+as us
+
+2594
+00:56:10,840 --> 00:56:12,400
+the hedge fund managers
+
+2595
+00:56:12,400 --> 00:56:13,500
+that trade
+
+2596
+00:56:13,500 --> 00:56:14,440
+with their own money
+
+2597
+00:56:14,440 --> 00:56:16,460
+trying to become wealthier
+
+2598
+00:56:16,460 --> 00:56:18,140
+using their own money
+
+2599
+00:56:18,140 --> 00:56:18,920
+as capital
+
+2600
+00:56:18,920 --> 00:56:20,480
+that's what we're going
+
+2601
+00:56:20,480 --> 00:56:21,200
+to move on to now
+
+2602
+00:56:21,200 --> 00:56:22,800
+in video number two
+
+2603
+00:56:22,800 --> 00:56:24,240
+I'll see you in clip two
+
+2604
+00:56:24,240 --> 00:56:24,900
+Voo
+
+2605
+00:56:24,900 --> 00:56:27,020
+sounds in favor
+
+2606
+00:56:27,020 --> 00:56:27,720
+very sweet
+
+2607
+00:56:27,720 --> 00:56:29,580
+in
+
+2608
+00:56:29,580 --> 00:56:33,560
+in
+
+2609
+00:56:34,260 --> 00:56:35,380
+you
+
+2610
+00:56:35,380 --> 00:56:43,700
+means
+
+2611
+00:56:43,700 --> 00:56:44,180
+they're estadounid
+
+2612
+00:56:44,180 --> 00:56:45,720
+I'm
+
+2613
+00:56:45,720 --> 00:56:46,340
+them
+
+2614
+00:56:46,340 --> 00:56:46,800
+you
+
+2615
+00:56:46,800 --> 00:56:47,700
+I
+
+2616
+00:56:47,700 --> 00:56:48,800
+I
+
+2617
+00:56:48,800 --> 00:56:49,360
+whom
+
